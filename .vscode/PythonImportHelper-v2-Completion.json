@@ -1,0 +1,3082 @@
+[
+    {
+        "label": "pantry",
+        "importPath": "contents",
+        "description": "contents",
+        "isExtraImport": true,
+        "detail": "contents",
+        "documentation": {}
+    },
+    {
+        "label": "pantry",
+        "importPath": "contents",
+        "description": "contents",
+        "isExtraImport": true,
+        "detail": "contents",
+        "documentation": {}
+    },
+    {
+        "label": "recipes",
+        "importPath": "contents",
+        "description": "contents",
+        "isExtraImport": true,
+        "detail": "contents",
+        "documentation": {}
+    },
+    {
+        "label": "os;os.system('cls')",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os;os.system('cls')",
+        "description": "os;os.system('cls')",
+        "detail": "os;os.system('cls')",
+        "documentation": {}
+    },
+    {
+        "label": "this",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "this",
+        "description": "this",
+        "detail": "this",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "TextIOWrapper",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "skipUnless",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "skipUnless",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "contextlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "atexit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "atexit",
+        "description": "atexit",
+        "detail": "atexit",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "fixpath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "fixpath",
+        "description": "fixpath",
+        "detail": "fixpath",
+        "documentation": {}
+    },
+    {
+        "label": "colorama",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "colorama",
+        "description": "colorama",
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "just_fix_windows_console",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "just_fix_windows_console",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "init",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "init",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "AnsiToWin32",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "init",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Cursor",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "colorama_text",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Fore",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "Style",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "init",
+        "importPath": "colorama",
+        "description": "colorama",
+        "isExtraImport": true,
+        "detail": "colorama",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "printable",
+        "importPath": "string",
+        "description": "string",
+        "isExtraImport": true,
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "normpath",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "dirname",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "join",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "os;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os;",
+        "description": "os;",
+        "detail": "os;",
+        "documentation": {}
+    },
+    {
+        "label": "os,random,string;os.system('cls')",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.random.string;os.system('cls')",
+        "description": "os.random.string;os.system('cls')",
+        "detail": "os.random.string;os.system('cls')",
+        "documentation": {}
+    },
+    {
+        "label": "albums;import os;os.system",
+        "importPath": "nested_data",
+        "description": "nested_data",
+        "isExtraImport": true,
+        "detail": "nested_data",
+        "documentation": {}
+    },
+    {
+        "label": "timeit,os;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "timeit.os;",
+        "description": "timeit.os;",
+        "detail": "timeit.os;",
+        "documentation": {}
+    },
+    {
+        "label": "available_parts",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.buy_computer_dict",
+        "description": "Tim Buchalka.DictAndSet.buy_computer_dict",
+        "peekOfCode": "available_parts = {\"1\": \"computer\",\n                   \"2\": \"monitor\",\n                   \"3\": \"keyboard\",\n                   \"4\": \"mouse\",\n                   \"5\": \"hdmi cable\",\n                   \"6\": \"dvd drive\",\n                   }\ncurrent_choice = None\ncomputer_parts = {}     # create an empty dictionary\nwhile current_choice != \"0\":",
+        "detail": "Tim Buchalka.DictAndSet.buy_computer_dict",
+        "documentation": {}
+    },
+    {
+        "label": "current_choice",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.buy_computer_dict",
+        "description": "Tim Buchalka.DictAndSet.buy_computer_dict",
+        "peekOfCode": "current_choice = None\ncomputer_parts = {}     # create an empty dictionary\nwhile current_choice != \"0\":\n    if current_choice in available_parts:\n        chosen_part = available_parts[current_choice]\n        if current_choice in computer_parts:\n            # it's already in, so remove it\n            print(f\"Removing {chosen_part}\")\n            computer_parts.pop(current_choice)\n        else:",
+        "detail": "Tim Buchalka.DictAndSet.buy_computer_dict",
+        "documentation": {}
+    },
+    {
+        "label": "computer_parts",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.buy_computer_dict",
+        "description": "Tim Buchalka.DictAndSet.buy_computer_dict",
+        "peekOfCode": "computer_parts = {}     # create an empty dictionary\nwhile current_choice != \"0\":\n    if current_choice in available_parts:\n        chosen_part = available_parts[current_choice]\n        if current_choice in computer_parts:\n            # it's already in, so remove it\n            print(f\"Removing {chosen_part}\")\n            computer_parts.pop(current_choice)\n        else:\n            print(f\"Adding {chosen_part}\")",
+        "detail": "Tim Buchalka.DictAndSet.buy_computer_dict",
+        "documentation": {}
+    },
+    {
+        "label": "pantry",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.contents",
+        "description": "Tim Buchalka.DictAndSet.contents",
+        "peekOfCode": "pantry = {\n    \"chicken\": 500,\n    \"lemon\": 2,\n    \"cumin\": 24,\n    \"paprika\": 18,\n    \"chilli powder\": 7,\n    \"yogurt\": 300,\n    \"oil\": 450,\n    \"onion\": 5,\n    \"garlic\": 9,",
+        "detail": "Tim Buchalka.DictAndSet.contents",
+        "documentation": {}
+    },
+    {
+        "label": "recipes",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.contents",
+        "description": "Tim Buchalka.DictAndSet.contents",
+        "peekOfCode": "recipes = {\n    \"Butter chicken\": {\n        \"chicken\": 750,\n        \"lemon\": 1,\n        \"cumin\": 1,\n        \"paprika\": 1,\n        \"chilli powder\": 2,\n        \"yogurt\": 250,\n        \"oil\": 50,\n        \"onion\": 1,",
+        "detail": "Tim Buchalka.DictAndSet.contents",
+        "documentation": {}
+    },
+    {
+        "label": "chicken_quantity",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_default",
+        "description": "Tim Buchalka.DictAndSet.dict_default",
+        "peekOfCode": "chicken_quantity = pantry.setdefault(\"chicken\",0)#* get the value of \"chicken\"(from the imported mod pantry),if not found, set it to 0\nprint(f\"chicken: {chicken_quantity}\")\nbeans_quantity = pantry.setdefault(\"beans\",0)#* get the value of \"beans\" (from the imported mod pantry), if not found, set it to 3\nprint(f\"beans: {beans_quantity}\")\nketchup_quantity = pantry.get(\"ketchup\",0)#* get the value of \"ketchup\"(from the imported mod pantry),if not found, set it to 5\nprint(f\"ketchup: {ketchup_quantity}\")\nz_quantity = pantry.setdefault(\"zucchini\",8)\nprint(f\"zucchini: {z_quantity}\")\nprint(\"`pantry` now contains...\")\nfor key, value in sorted(pantry.items()):",
+        "detail": "Tim Buchalka.DictAndSet.dict_default",
+        "documentation": {}
+    },
+    {
+        "label": "beans_quantity",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_default",
+        "description": "Tim Buchalka.DictAndSet.dict_default",
+        "peekOfCode": "beans_quantity = pantry.setdefault(\"beans\",0)#* get the value of \"beans\" (from the imported mod pantry), if not found, set it to 3\nprint(f\"beans: {beans_quantity}\")\nketchup_quantity = pantry.get(\"ketchup\",0)#* get the value of \"ketchup\"(from the imported mod pantry),if not found, set it to 5\nprint(f\"ketchup: {ketchup_quantity}\")\nz_quantity = pantry.setdefault(\"zucchini\",8)\nprint(f\"zucchini: {z_quantity}\")\nprint(\"`pantry` now contains...\")\nfor key, value in sorted(pantry.items()):\n    print(key, value)\n#* different ways to create the same dictionary",
+        "detail": "Tim Buchalka.DictAndSet.dict_default",
+        "documentation": {}
+    },
+    {
+        "label": "ketchup_quantity",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_default",
+        "description": "Tim Buchalka.DictAndSet.dict_default",
+        "peekOfCode": "ketchup_quantity = pantry.get(\"ketchup\",0)#* get the value of \"ketchup\"(from the imported mod pantry),if not found, set it to 5\nprint(f\"ketchup: {ketchup_quantity}\")\nz_quantity = pantry.setdefault(\"zucchini\",8)\nprint(f\"zucchini: {z_quantity}\")\nprint(\"`pantry` now contains...\")\nfor key, value in sorted(pantry.items()):\n    print(key, value)\n#* different ways to create the same dictionary\na = dict(one=1, two=2, three=3)\nb = { \"one\":1, \"two\":2, \"three\":3}",
+        "detail": "Tim Buchalka.DictAndSet.dict_default",
+        "documentation": {}
+    },
+    {
+        "label": "z_quantity",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_default",
+        "description": "Tim Buchalka.DictAndSet.dict_default",
+        "peekOfCode": "z_quantity = pantry.setdefault(\"zucchini\",8)\nprint(f\"zucchini: {z_quantity}\")\nprint(\"`pantry` now contains...\")\nfor key, value in sorted(pantry.items()):\n    print(key, value)\n#* different ways to create the same dictionary\na = dict(one=1, two=2, three=3)\nb = { \"one\":1, \"two\":2, \"three\":3}\nc = dict(zip(['one','two','three'], [1,2,3]))\nd = dict([('two',2), ('one',1), ('three',3)])",
+        "detail": "Tim Buchalka.DictAndSet.dict_default",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_default",
+        "description": "Tim Buchalka.DictAndSet.dict_default",
+        "peekOfCode": "a = dict(one=1, two=2, three=3)\nb = { \"one\":1, \"two\":2, \"three\":3}\nc = dict(zip(['one','two','three'], [1,2,3]))\nd = dict([('two',2), ('one',1), ('three',3)])\ne = dict({'three':3, 'one':1, 'two':2})\nf = dict({'one': 1, 'three': 3}, two= 2)\n# zz = a == b == c == d == e == f #* all are True",
+        "detail": "Tim Buchalka.DictAndSet.dict_default",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_default",
+        "description": "Tim Buchalka.DictAndSet.dict_default",
+        "peekOfCode": "b = { \"one\":1, \"two\":2, \"three\":3}\nc = dict(zip(['one','two','three'], [1,2,3]))\nd = dict([('two',2), ('one',1), ('three',3)])\ne = dict({'three':3, 'one':1, 'two':2})\nf = dict({'one': 1, 'three': 3}, two= 2)\n# zz = a == b == c == d == e == f #* all are True",
+        "detail": "Tim Buchalka.DictAndSet.dict_default",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_default",
+        "description": "Tim Buchalka.DictAndSet.dict_default",
+        "peekOfCode": "c = dict(zip(['one','two','three'], [1,2,3]))\nd = dict([('two',2), ('one',1), ('three',3)])\ne = dict({'three':3, 'one':1, 'two':2})\nf = dict({'one': 1, 'three': 3}, two= 2)\n# zz = a == b == c == d == e == f #* all are True",
+        "detail": "Tim Buchalka.DictAndSet.dict_default",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_default",
+        "description": "Tim Buchalka.DictAndSet.dict_default",
+        "peekOfCode": "d = dict([('two',2), ('one',1), ('three',3)])\ne = dict({'three':3, 'one':1, 'two':2})\nf = dict({'one': 1, 'three': 3}, two= 2)\n# zz = a == b == c == d == e == f #* all are True",
+        "detail": "Tim Buchalka.DictAndSet.dict_default",
+        "documentation": {}
+    },
+    {
+        "label": "e",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_default",
+        "description": "Tim Buchalka.DictAndSet.dict_default",
+        "peekOfCode": "e = dict({'three':3, 'one':1, 'two':2})\nf = dict({'one': 1, 'three': 3}, two= 2)\n# zz = a == b == c == d == e == f #* all are True",
+        "detail": "Tim Buchalka.DictAndSet.dict_default",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_default",
+        "description": "Tim Buchalka.DictAndSet.dict_default",
+        "peekOfCode": "f = dict({'one': 1, 'three': 3}, two= 2)\n# zz = a == b == c == d == e == f #* all are True",
+        "detail": "Tim Buchalka.DictAndSet.dict_default",
+        "documentation": {}
+    },
+    {
+        "label": "apple",
+        "kind": 2,
+        "importPath": "Tim Buchalka.DictAndSet.dict_intro",
+        "description": "Tim Buchalka.DictAndSet.dict_intro",
+        "peekOfCode": "def apple():\n    print(\"apple\")",
+        "detail": "Tim Buchalka.DictAndSet.dict_intro",
+        "documentation": {}
+    },
+    {
+        "label": "vehicles",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_intro",
+        "description": "Tim Buchalka.DictAndSet.dict_intro",
+        "peekOfCode": "vehicles = {\n    'dream': 'Honda 250T',\n    'roadster': 'BMW R1100',\n    'er5': 'Kawaski ER5',\n    'can-am': 'Bombardier Can-Am 250',\n    'virago': 'Yamaha XV250',\n    'tenere': \"Yamaha XT650\",\n    'jimny': 'Suzuki Jimmy 1.5',\n    'fiesta': \"Ford Fiesta Ghia 1.4\",\n    'learjet': 'Bombardier Learjet 75'",
+        "detail": "Tim Buchalka.DictAndSet.dict_intro",
+        "documentation": {}
+    },
+    {
+        "label": "my_car",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_intro",
+        "description": "Tim Buchalka.DictAndSet.dict_intro",
+        "peekOfCode": "my_car = vehicles['fiesta']\ncommuter = vehicles['virago']\n#* get method (key: value,) Slower\n#!ERROR wiil return (None) and will not error \nlearner = vehicles.get(\"er5\")\n#? How to add to a (vehicles[\"key\"] = \"value\") pair\nvehicles[\"starfighter\"] = \"Lockheed F-104\"\nvehicles[\"leerjet\"] = \"Bombardier Learjet 45\"\nvehicles[\"toy\"] = \"glider\"\n#?This is how to iterate over a (key: value) pair ",
+        "detail": "Tim Buchalka.DictAndSet.dict_intro",
+        "documentation": {}
+    },
+    {
+        "label": "commuter",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_intro",
+        "description": "Tim Buchalka.DictAndSet.dict_intro",
+        "peekOfCode": "commuter = vehicles['virago']\n#* get method (key: value,) Slower\n#!ERROR wiil return (None) and will not error \nlearner = vehicles.get(\"er5\")\n#? How to add to a (vehicles[\"key\"] = \"value\") pair\nvehicles[\"starfighter\"] = \"Lockheed F-104\"\nvehicles[\"leerjet\"] = \"Bombardier Learjet 45\"\nvehicles[\"toy\"] = \"glider\"\n#?This is how to iterate over a (key: value) pair \n#* uses less memory",
+        "detail": "Tim Buchalka.DictAndSet.dict_intro",
+        "documentation": {}
+    },
+    {
+        "label": "learner",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_intro",
+        "description": "Tim Buchalka.DictAndSet.dict_intro",
+        "peekOfCode": "learner = vehicles.get(\"er5\")\n#? How to add to a (vehicles[\"key\"] = \"value\") pair\nvehicles[\"starfighter\"] = \"Lockheed F-104\"\nvehicles[\"leerjet\"] = \"Bombardier Learjet 45\"\nvehicles[\"toy\"] = \"glider\"\n#?This is how to iterate over a (key: value) pair \n#* uses less memory\n# for key in vehicles:\n#     print(key, vehicles[key],sep=', ')\n#* Changing an existing value",
+        "detail": "Tim Buchalka.DictAndSet.dict_intro",
+        "documentation": {}
+    },
+    {
+        "label": "vehicles[\"starfighter\"]",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_intro",
+        "description": "Tim Buchalka.DictAndSet.dict_intro",
+        "peekOfCode": "vehicles[\"starfighter\"] = \"Lockheed F-104\"\nvehicles[\"leerjet\"] = \"Bombardier Learjet 45\"\nvehicles[\"toy\"] = \"glider\"\n#?This is how to iterate over a (key: value) pair \n#* uses less memory\n# for key in vehicles:\n#     print(key, vehicles[key],sep=', ')\n#* Changing an existing value\nvehicles[\"virago\"] = 'Yamaha XV535'\n#* Deleting a (key: value,)",
+        "detail": "Tim Buchalka.DictAndSet.dict_intro",
+        "documentation": {}
+    },
+    {
+        "label": "vehicles[\"leerjet\"]",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_intro",
+        "description": "Tim Buchalka.DictAndSet.dict_intro",
+        "peekOfCode": "vehicles[\"leerjet\"] = \"Bombardier Learjet 45\"\nvehicles[\"toy\"] = \"glider\"\n#?This is how to iterate over a (key: value) pair \n#* uses less memory\n# for key in vehicles:\n#     print(key, vehicles[key],sep=', ')\n#* Changing an existing value\nvehicles[\"virago\"] = 'Yamaha XV535'\n#* Deleting a (key: value,)\ndel vehicles[\"starfighter\"]",
+        "detail": "Tim Buchalka.DictAndSet.dict_intro",
+        "documentation": {}
+    },
+    {
+        "label": "vehicles[\"toy\"]",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_intro",
+        "description": "Tim Buchalka.DictAndSet.dict_intro",
+        "peekOfCode": "vehicles[\"toy\"] = \"glider\"\n#?This is how to iterate over a (key: value) pair \n#* uses less memory\n# for key in vehicles:\n#     print(key, vehicles[key],sep=', ')\n#* Changing an existing value\nvehicles[\"virago\"] = 'Yamaha XV535'\n#* Deleting a (key: value,)\ndel vehicles[\"starfighter\"]\n#!Error",
+        "detail": "Tim Buchalka.DictAndSet.dict_intro",
+        "documentation": {}
+    },
+    {
+        "label": "vehicles[\"virago\"]",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_intro",
+        "description": "Tim Buchalka.DictAndSet.dict_intro",
+        "peekOfCode": "vehicles[\"virago\"] = 'Yamaha XV535'\n#* Deleting a (key: value,)\ndel vehicles[\"starfighter\"]\n#!Error\n# del vehicles[\"f1\"]\n#!Error\n# vehicles.pop(\"f1\")\n#* Nothing will happen\n#* Will print None \n# result = vehicles.pop(\"f1\", None)",
+        "detail": "Tim Buchalka.DictAndSet.dict_intro",
+        "documentation": {}
+    },
+    {
+        "label": "bike",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_intro",
+        "description": "Tim Buchalka.DictAndSet.dict_intro",
+        "peekOfCode": "bike = vehicles.pop(\"tenere\", \"not present\")\nprint(bike)\nprint()\n#* .item() uses more memory\n# spot = 0\n# for key, value in vehicles.items():\n#     spot +=1\n#     print(spot,key,value,sep=': ')\ndef apple():\n    print(\"apple\")",
+        "detail": "Tim Buchalka.DictAndSet.dict_intro",
+        "documentation": {}
+    },
+    {
+        "label": "available_parts_dict",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_list",
+        "description": "Tim Buchalka.DictAndSet.dict_list",
+        "peekOfCode": "available_parts_dict = {\"1\": \"computer\",\n                        \"2\": \"monitor\",\n                        \"3\": \"keyboard\",\n                        \"4\": \"mouse\",\n                        \"5\": \"hdmi cable\",\n                        \"6\": \"dvd drive\",\n                        }\navailable_parts_list = [\"computer\",\n                        \"monitor\",\n                        \"keyboard\",",
+        "detail": "Tim Buchalka.DictAndSet.dict_list",
+        "documentation": {}
+    },
+    {
+        "label": "available_parts_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_list",
+        "description": "Tim Buchalka.DictAndSet.dict_list",
+        "peekOfCode": "available_parts_list = [\"computer\",\n                        \"monitor\",\n                        \"keyboard\",\n                        \"mouse\",\n                        \"hdmi cable\",\n                        \"dvd drive\",\n                        ]\ncurrent_choice = None\npart_list = []\nwhile current_choice != \"0\":",
+        "detail": "Tim Buchalka.DictAndSet.dict_list",
+        "documentation": {}
+    },
+    {
+        "label": "current_choice",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_list",
+        "description": "Tim Buchalka.DictAndSet.dict_list",
+        "peekOfCode": "current_choice = None\npart_list = []\nwhile current_choice != \"0\":\n    current_choice = input(\"> \")\n    if current_choice == \"0\":\n        os.system('cls')\n        print(\"Parts Chosen\")\n        for index,part in enumerate(part_list):\n            print(f\"{index+1}. {part}\")\n        break",
+        "detail": "Tim Buchalka.DictAndSet.dict_list",
+        "documentation": {}
+    },
+    {
+        "label": "part_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_list",
+        "description": "Tim Buchalka.DictAndSet.dict_list",
+        "peekOfCode": "part_list = []\nwhile current_choice != \"0\":\n    current_choice = input(\"> \")\n    if current_choice == \"0\":\n        os.system('cls')\n        print(\"Parts Chosen\")\n        for index,part in enumerate(part_list):\n            print(f\"{index+1}. {part}\")\n        break\n    elif current_choice in available_parts_dict:",
+        "detail": "Tim Buchalka.DictAndSet.dict_list",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_methods",
+        "description": "Tim Buchalka.DictAndSet.dict_methods",
+        "peekOfCode": "d = {\n    0: \"zero\",\n    1: \"one\",\n    2: \"two\",\n    3: \"three\",\n    4: \"four\",\n    5: \"five\",\n    6: \"six\",\n    7: \"seven\",\n    8: \"eight\",",
+        "detail": "Tim Buchalka.DictAndSet.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "pantry_items",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_methods",
+        "description": "Tim Buchalka.DictAndSet.dict_methods",
+        "peekOfCode": "pantry_items = ['chicken', 'spam', 'egg', 'bread', 'lemon']\nv = d.values()\nprint(v)\nk = d.keys()\nprint(k)\nd[10] = \"ten\"\nprint(v)\n#* check for membership\nprint(\"four\" in v)\nprint(\"eleven\" in v)",
+        "detail": "Tim Buchalka.DictAndSet.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "v",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_methods",
+        "description": "Tim Buchalka.DictAndSet.dict_methods",
+        "peekOfCode": "v = d.values()\nprint(v)\nk = d.keys()\nprint(k)\nd[10] = \"ten\"\nprint(v)\n#* check for membership\nprint(\"four\" in v)\nprint(\"eleven\" in v)\nkeys = list(d.keys())",
+        "detail": "Tim Buchalka.DictAndSet.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "k",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_methods",
+        "description": "Tim Buchalka.DictAndSet.dict_methods",
+        "peekOfCode": "k = d.keys()\nprint(k)\nd[10] = \"ten\"\nprint(v)\n#* check for membership\nprint(\"four\" in v)\nprint(\"eleven\" in v)\nkeys = list(d.keys())\nvalues = list(v) #* => list(d.values())\nif \"four\" in values:",
+        "detail": "Tim Buchalka.DictAndSet.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "d[10]",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_methods",
+        "description": "Tim Buchalka.DictAndSet.dict_methods",
+        "peekOfCode": "d[10] = \"ten\"\nprint(v)\n#* check for membership\nprint(\"four\" in v)\nprint(\"eleven\" in v)\nkeys = list(d.keys())\nvalues = list(v) #* => list(d.values())\nif \"four\" in values:\n    index = values.index(\"four\")\n    key = keys[index]",
+        "detail": "Tim Buchalka.DictAndSet.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "keys",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_methods",
+        "description": "Tim Buchalka.DictAndSet.dict_methods",
+        "peekOfCode": "keys = list(d.keys())\nvalues = list(v) #* => list(d.values())\nif \"four\" in values:\n    index = values.index(\"four\")\n    key = keys[index]\n    print(f\"{d[key]} was found with the {key}\")\nfor key, value in d.items():\n    if value == \"four\":\n        print(f\"{d[key]} was found with the {key}\")\n# Code for \"The dict `update` method\" lecture",
+        "detail": "Tim Buchalka.DictAndSet.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "values",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.dict_methods",
+        "description": "Tim Buchalka.DictAndSet.dict_methods",
+        "peekOfCode": "values = list(v) #* => list(d.values())\nif \"four\" in values:\n    index = values.index(\"four\")\n    key = keys[index]\n    print(f\"{d[key]} was found with the {key}\")\nfor key, value in d.items():\n    if value == \"four\":\n        print(f\"{d[key]} was found with the {key}\")\n# Code for \"The dict `update` method\" lecture\n# d2 = {",
+        "detail": "Tim Buchalka.DictAndSet.dict_methods",
+        "documentation": {}
+    },
+    {
+        "label": "dog_dict",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.main",
+        "description": "Tim Buchalka.DictAndSet.main",
+        "peekOfCode": "dog_dict = {\n    'Claire': 'German Shepherd', \n    'Maddy':  'Blue Heeler',\n    'Neicha': 'Bernese Mountain Dog / Poodle',\n    'Ace':    'Pitbull / Terrier',\n    'Nina':   'English Mastiff',\n    'Kira':   'Retriever'\n}\ndog_dict = sorted(dog_dict)\nfor key in dog_dict:",
+        "detail": "Tim Buchalka.DictAndSet.main",
+        "documentation": {}
+    },
+    {
+        "label": "dog_dict",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.main",
+        "description": "Tim Buchalka.DictAndSet.main",
+        "peekOfCode": "dog_dict = sorted(dog_dict)\nfor key in dog_dict:\n    print(key)",
+        "detail": "Tim Buchalka.DictAndSet.main",
+        "documentation": {}
+    },
+    {
+        "label": "add_shopping_item",
+        "kind": 2,
+        "importPath": "Tim Buchalka.DictAndSet.meal_planner",
+        "description": "Tim Buchalka.DictAndSet.meal_planner",
+        "peekOfCode": "def add_shopping_item(data: dict, item: str, amount: int) -> None:\n    # \"\"\"Add a tuple containing `item` and `amount` to the `data` dict.\"\"\"\n    # if item in data: #* item already exists\n    #     data[item] += amount #* increase the amount\n    # else:\n    #     data[item] = amount #* add the item to the dict\n    data[item] = data.setdefault(item,0) + amount #* shorter version of above code\n# display_dict = {str(index + 1): meal for index, meal in enumerate(recipes)}\ndisplay_dict = {}\nfor index, key in enumerate(recipes):",
+        "detail": "Tim Buchalka.DictAndSet.meal_planner",
+        "documentation": {}
+    },
+    {
+        "label": "display_dict",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.meal_planner",
+        "description": "Tim Buchalka.DictAndSet.meal_planner",
+        "peekOfCode": "display_dict = {}\nfor index, key in enumerate(recipes):\n    display_dict[str(index + 1)] = key\nshopping_list = {}\nwhile True:\n    #* Display a menu of recipes we know how to cook\n    print(\"Please choose your recipe\")\n    print(\"--------------------------\")\n    for key, value in display_dict.items():\n        print(f\"{key} - {value}\")",
+        "detail": "Tim Buchalka.DictAndSet.meal_planner",
+        "documentation": {}
+    },
+    {
+        "label": "shopping_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.meal_planner",
+        "description": "Tim Buchalka.DictAndSet.meal_planner",
+        "peekOfCode": "shopping_list = {}\nwhile True:\n    #* Display a menu of recipes we know how to cook\n    print(\"Please choose your recipe\")\n    print(\"--------------------------\")\n    for key, value in display_dict.items():\n        print(f\"{key} - {value}\")\n    choice = input(\": \")\n    if choice == \"0\":\n        break ",
+        "detail": "Tim Buchalka.DictAndSet.meal_planner",
+        "documentation": {}
+    },
+    {
+        "label": "animals",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.shallow_copy",
+        "description": "Tim Buchalka.DictAndSet.shallow_copy",
+        "peekOfCode": "animals = {\n        \"lion\": [\"scary\",\"big\",\"cat\"],\n        \"elephant\": [\"big\",\"grey\",\"wrinkled\"],\n        \"teddy\": [\"cuddly\",\"stuff\"],\n}\nthings = animals.copy()#* things is the new copy of the animals dict\nprint(things[\"teddy\"])#* cuddly, stuff\nprint(animals[\"teddy\"])#*cuddly, stuff\nprint()\nthings[\"teddy\"].append(\"toy\")",
+        "detail": "Tim Buchalka.DictAndSet.shallow_copy",
+        "documentation": {}
+    },
+    {
+        "label": "things",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.shallow_copy",
+        "description": "Tim Buchalka.DictAndSet.shallow_copy",
+        "peekOfCode": "things = animals.copy()#* things is the new copy of the animals dict\nprint(things[\"teddy\"])#* cuddly, stuff\nprint(animals[\"teddy\"])#*cuddly, stuff\nprint()\nthings[\"teddy\"].append(\"toy\")\nprint(things[\"teddy\"])#* cuddly, stuff, toy\nprint(animals[\"teddy\"])#*cuddly, stuff, toy",
+        "detail": "Tim Buchalka.DictAndSet.shallow_copy",
+        "documentation": {}
+    },
+    {
+        "label": "lion_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "description": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "peekOfCode": "lion_list = [\"scary\",\"big\",\"cat\"]\nelephant_list = [\"big\",\"grey\",\"wrinkled\"]\nteddy_list = [\"cuddly\",\"stuff\"]\nanimals = {\n        \"lion\": lion_list,\n        \"elephant\": elephant_list,\n        \"teddy\": teddy_list,\n}\n# things = animals.copy()#* things is the new copy of the animals dict\nthings = {",
+        "detail": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "documentation": {}
+    },
+    {
+        "label": "elephant_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "description": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "peekOfCode": "elephant_list = [\"big\",\"grey\",\"wrinkled\"]\nteddy_list = [\"cuddly\",\"stuff\"]\nanimals = {\n        \"lion\": lion_list,\n        \"elephant\": elephant_list,\n        \"teddy\": teddy_list,\n}\n# things = animals.copy()#* things is the new copy of the animals dict\nthings = {\n    \"lion\": lion_list,",
+        "detail": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "documentation": {}
+    },
+    {
+        "label": "teddy_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "description": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "peekOfCode": "teddy_list = [\"cuddly\",\"stuff\"]\nanimals = {\n        \"lion\": lion_list,\n        \"elephant\": elephant_list,\n        \"teddy\": teddy_list,\n}\n# things = animals.copy()#* things is the new copy of the animals dict\nthings = {\n    \"lion\": lion_list,\n    \"elephant\": elephant_list,",
+        "detail": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "documentation": {}
+    },
+    {
+        "label": "animals",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "description": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "peekOfCode": "animals = {\n        \"lion\": lion_list,\n        \"elephant\": elephant_list,\n        \"teddy\": teddy_list,\n}\n# things = animals.copy()#* things is the new copy of the animals dict\nthings = {\n    \"lion\": lion_list,\n    \"elephant\": elephant_list,\n    \"teddy\": teddy_list,",
+        "detail": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "documentation": {}
+    },
+    {
+        "label": "things",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "description": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "peekOfCode": "things = {\n    \"lion\": lion_list,\n    \"elephant\": elephant_list,\n    \"teddy\": teddy_list,\n}\nprint(things[\"teddy\"])#* cuddly, stuff\nprint(animals[\"teddy\"])#*cuddly, stuff\nprint()\n# things[\"teddy\"].append(\"toy\")\nteddy_list.append(\"toy\")",
+        "detail": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "documentation": {}
+    },
+    {
+        "label": "StreamWrapperTest",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansitowin32_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansitowin32_test",
+        "peekOfCode": "class StreamWrapperTest(TestCase):\n    def testIsAProxy(self):\n        mockStream = Mock()\n        wrapper = StreamWrapper(mockStream, None)\n        self.assertTrue( wrapper.random_attr is mockStream.random_attr )\n    def testDelegatesWrite(self):\n        mockStream = Mock()\n        mockConverter = Mock()\n        wrapper = StreamWrapper(mockStream, mockConverter)\n        wrapper.write('hello')",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansitowin32_test",
+        "documentation": {}
+    },
+    {
+        "label": "AnsiToWin32Test",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansitowin32_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansitowin32_test",
+        "peekOfCode": "class AnsiToWin32Test(TestCase):\n    def testInit(self):\n        mockStdout = Mock()\n        auto = Mock()\n        stream = AnsiToWin32(mockStdout, autoreset=auto)\n        self.assertEqual(stream.wrapped, mockStdout)\n        self.assertEqual(stream.autoreset, auto)\n    @patch('colorama.ansitowin32.winterm', None)\n    @patch('colorama.ansitowin32.winapi_test', lambda *_: True)\n    def testStripIsTrueOnWindows(self):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansitowin32_test",
+        "documentation": {}
+    },
+    {
+        "label": "AnsiTest",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansi_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansi_test",
+        "peekOfCode": "class AnsiTest(TestCase):\n    def setUp(self):\n        # sanity check: stdout should be a file or StringIO object.\n        # It will only be AnsiToWin32 if init() has previously wrapped it\n        self.assertNotEqual(type(sys.stdout), AnsiToWin32)\n        self.assertNotEqual(type(sys.stderr), AnsiToWin32)\n    def tearDown(self):\n        sys.stdout = stdout_orig\n        sys.stderr = stderr_orig\n    def testForeAttributes(self):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansi_test",
+        "documentation": {}
+    },
+    {
+        "label": "stdout_orig",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansi_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansi_test",
+        "peekOfCode": "stdout_orig = sys.stdout\nstderr_orig = sys.stderr\nclass AnsiTest(TestCase):\n    def setUp(self):\n        # sanity check: stdout should be a file or StringIO object.\n        # It will only be AnsiToWin32 if init() has previously wrapped it\n        self.assertNotEqual(type(sys.stdout), AnsiToWin32)\n        self.assertNotEqual(type(sys.stderr), AnsiToWin32)\n    def tearDown(self):\n        sys.stdout = stdout_orig",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansi_test",
+        "documentation": {}
+    },
+    {
+        "label": "stderr_orig",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansi_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansi_test",
+        "peekOfCode": "stderr_orig = sys.stderr\nclass AnsiTest(TestCase):\n    def setUp(self):\n        # sanity check: stdout should be a file or StringIO object.\n        # It will only be AnsiToWin32 if init() has previously wrapped it\n        self.assertNotEqual(type(sys.stdout), AnsiToWin32)\n        self.assertNotEqual(type(sys.stderr), AnsiToWin32)\n    def tearDown(self):\n        sys.stdout = stdout_orig\n        sys.stderr = stderr_orig",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.ansi_test",
+        "documentation": {}
+    },
+    {
+        "label": "InitTest",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "peekOfCode": "class InitTest(TestCase):\n    @skipUnless(sys.stdout.isatty(), \"sys.stdout is not a tty\")\n    def setUp(self):\n        # sanity check\n        self.assertNotWrapped()\n    def tearDown(self):\n        _wipe_internal_state_for_tests()\n        sys.stdout = orig_stdout\n        sys.stderr = orig_stderr\n    def assertWrapped(self):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "documentation": {}
+    },
+    {
+        "label": "JustFixWindowsConsoleTest",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "peekOfCode": "class JustFixWindowsConsoleTest(TestCase):\n    def _reset(self):\n        _wipe_internal_state_for_tests()\n        sys.stdout = orig_stdout\n        sys.stderr = orig_stderr\n    def tearDown(self):\n        self._reset()\n    @patch(\"colorama.ansitowin32.winapi_test\", lambda: True)\n    def testJustFixWindowsConsole(self):\n        if sys.platform != \"win32\":",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "documentation": {}
+    },
+    {
+        "label": "orig_stdout",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "peekOfCode": "orig_stdout = sys.stdout\norig_stderr = sys.stderr\nclass InitTest(TestCase):\n    @skipUnless(sys.stdout.isatty(), \"sys.stdout is not a tty\")\n    def setUp(self):\n        # sanity check\n        self.assertNotWrapped()\n    def tearDown(self):\n        _wipe_internal_state_for_tests()\n        sys.stdout = orig_stdout",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "documentation": {}
+    },
+    {
+        "label": "orig_stderr",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "peekOfCode": "orig_stderr = sys.stderr\nclass InitTest(TestCase):\n    @skipUnless(sys.stdout.isatty(), \"sys.stdout is not a tty\")\n    def setUp(self):\n        # sanity check\n        self.assertNotWrapped()\n    def tearDown(self):\n        _wipe_internal_state_for_tests()\n        sys.stdout = orig_stdout\n        sys.stderr = orig_stderr",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.initialise_test",
+        "documentation": {}
+    },
+    {
+        "label": "IsattyTest",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.isatty_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.isatty_test",
+        "peekOfCode": "class IsattyTest(TestCase):\n    def test_TTY(self):\n        tty = StreamTTY()\n        self.assertTrue(is_a_tty(tty))\n        with pycharm():\n            self.assertTrue(is_a_tty(tty))\n    def test_nonTTY(self):\n        non_tty = StreamNonTTY()\n        self.assertFalse(is_a_tty(non_tty))\n        with pycharm():",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.isatty_test",
+        "documentation": {}
+    },
+    {
+        "label": "is_a_tty",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.isatty_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.isatty_test",
+        "peekOfCode": "def is_a_tty(stream):\n    return StreamWrapper(stream, None).isatty()\nclass IsattyTest(TestCase):\n    def test_TTY(self):\n        tty = StreamTTY()\n        self.assertTrue(is_a_tty(tty))\n        with pycharm():\n            self.assertTrue(is_a_tty(tty))\n    def test_nonTTY(self):\n        non_tty = StreamNonTTY()",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.isatty_test",
+        "documentation": {}
+    },
+    {
+        "label": "StreamTTY",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "peekOfCode": "class StreamTTY(StringIO):\n    def isatty(self):\n        return True\nclass StreamNonTTY(StringIO):\n    def isatty(self):\n        return False\n@contextmanager\ndef osname(name):\n    orig = os.name\n    os.name = name",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "documentation": {}
+    },
+    {
+        "label": "StreamNonTTY",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "peekOfCode": "class StreamNonTTY(StringIO):\n    def isatty(self):\n        return False\n@contextmanager\ndef osname(name):\n    orig = os.name\n    os.name = name\n    yield\n    os.name = orig\n@contextmanager",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "documentation": {}
+    },
+    {
+        "label": "osname",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "peekOfCode": "def osname(name):\n    orig = os.name\n    os.name = name\n    yield\n    os.name = orig\n@contextmanager\ndef replace_by(stream):\n    orig_stdout = sys.stdout\n    orig_stderr = sys.stderr\n    sys.stdout = stream",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "documentation": {}
+    },
+    {
+        "label": "replace_by",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "peekOfCode": "def replace_by(stream):\n    orig_stdout = sys.stdout\n    orig_stderr = sys.stderr\n    sys.stdout = stream\n    sys.stderr = stream\n    yield\n    sys.stdout = orig_stdout\n    sys.stderr = orig_stderr\n@contextmanager\ndef replace_original_by(stream):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "documentation": {}
+    },
+    {
+        "label": "replace_original_by",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "peekOfCode": "def replace_original_by(stream):\n    orig_stdout = sys.__stdout__\n    orig_stderr = sys.__stderr__\n    sys.__stdout__ = stream\n    sys.__stderr__ = stream\n    yield\n    sys.__stdout__ = orig_stdout\n    sys.__stderr__ = orig_stderr\n@contextmanager\ndef pycharm():",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pycharm",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "peekOfCode": "def pycharm():\n    os.environ[\"PYCHARM_HOSTED\"] = \"1\"\n    non_tty = StreamNonTTY()\n    with replace_by(non_tty), replace_original_by(non_tty):\n        yield\n    del os.environ[\"PYCHARM_HOSTED\"]",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.utils",
+        "documentation": {}
+    },
+    {
+        "label": "WinTermTest",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.winterm_test",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.winterm_test",
+        "peekOfCode": "class WinTermTest(TestCase):\n    @patch('colorama.winterm.win32')\n    def testInit(self, mockWin32):\n        mockAttr = Mock()\n        mockAttr.wAttributes = 7 + 6 * 16 + 8\n        mockWin32.GetConsoleScreenBufferInfo.return_value = mockAttr\n        term = WinTerm()\n        self.assertEqual(term._fore, 7)\n        self.assertEqual(term._back, 6)\n        self.assertEqual(term._style, 8)",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.tests.winterm_test",
+        "documentation": {}
+    },
+    {
+        "label": "AnsiCodes",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "class AnsiCodes(object):\n    def __init__(self):\n        # the subclasses declare class attributes which are numbers.\n        # Upon instantiation we define instance attributes, which are the same\n        # as the class attributes but wrapped with the ANSI escape sequence\n        for name in dir(self):\n            if not name.startswith('_'):\n                value = getattr(self, name)\n                setattr(self, name, code_to_chars(value))\nclass AnsiCursor(object):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "AnsiCursor",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "class AnsiCursor(object):\n    def UP(self, n=1):\n        return CSI + str(n) + 'A'\n    def DOWN(self, n=1):\n        return CSI + str(n) + 'B'\n    def FORWARD(self, n=1):\n        return CSI + str(n) + 'C'\n    def BACK(self, n=1):\n        return CSI + str(n) + 'D'\n    def POS(self, x=1, y=1):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "AnsiFore",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "class AnsiFore(AnsiCodes):\n    BLACK           = 30\n    RED             = 31\n    GREEN           = 32\n    YELLOW          = 33\n    BLUE            = 34\n    MAGENTA         = 35\n    CYAN            = 36\n    WHITE           = 37\n    RESET           = 39",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "AnsiBack",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "class AnsiBack(AnsiCodes):\n    BLACK           = 40\n    RED             = 41\n    GREEN           = 42\n    YELLOW          = 43\n    BLUE            = 44\n    MAGENTA         = 45\n    CYAN            = 46\n    WHITE           = 47\n    RESET           = 49",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "AnsiStyle",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "class AnsiStyle(AnsiCodes):\n    BRIGHT    = 1\n    DIM       = 2\n    NORMAL    = 22\n    RESET_ALL = 0\nFore   = AnsiFore()\nBack   = AnsiBack()\nStyle  = AnsiStyle()\nCursor = AnsiCursor()",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "code_to_chars",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "def code_to_chars(code):\n    return CSI + str(code) + 'm'\ndef set_title(title):\n    return OSC + '2;' + title + BEL\ndef clear_screen(mode=2):\n    return CSI + str(mode) + 'J'\ndef clear_line(mode=2):\n    return CSI + str(mode) + 'K'\nclass AnsiCodes(object):\n    def __init__(self):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "set_title",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "def set_title(title):\n    return OSC + '2;' + title + BEL\ndef clear_screen(mode=2):\n    return CSI + str(mode) + 'J'\ndef clear_line(mode=2):\n    return CSI + str(mode) + 'K'\nclass AnsiCodes(object):\n    def __init__(self):\n        # the subclasses declare class attributes which are numbers.\n        # Upon instantiation we define instance attributes, which are the same",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "clear_screen",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "def clear_screen(mode=2):\n    return CSI + str(mode) + 'J'\ndef clear_line(mode=2):\n    return CSI + str(mode) + 'K'\nclass AnsiCodes(object):\n    def __init__(self):\n        # the subclasses declare class attributes which are numbers.\n        # Upon instantiation we define instance attributes, which are the same\n        # as the class attributes but wrapped with the ANSI escape sequence\n        for name in dir(self):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "clear_line",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "def clear_line(mode=2):\n    return CSI + str(mode) + 'K'\nclass AnsiCodes(object):\n    def __init__(self):\n        # the subclasses declare class attributes which are numbers.\n        # Upon instantiation we define instance attributes, which are the same\n        # as the class attributes but wrapped with the ANSI escape sequence\n        for name in dir(self):\n            if not name.startswith('_'):\n                value = getattr(self, name)",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "CSI",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "CSI = '\\033['\nOSC = '\\033]'\nBEL = '\\a'\ndef code_to_chars(code):\n    return CSI + str(code) + 'm'\ndef set_title(title):\n    return OSC + '2;' + title + BEL\ndef clear_screen(mode=2):\n    return CSI + str(mode) + 'J'\ndef clear_line(mode=2):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "OSC",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "OSC = '\\033]'\nBEL = '\\a'\ndef code_to_chars(code):\n    return CSI + str(code) + 'm'\ndef set_title(title):\n    return OSC + '2;' + title + BEL\ndef clear_screen(mode=2):\n    return CSI + str(mode) + 'J'\ndef clear_line(mode=2):\n    return CSI + str(mode) + 'K'",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "BEL",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "BEL = '\\a'\ndef code_to_chars(code):\n    return CSI + str(code) + 'm'\ndef set_title(title):\n    return OSC + '2;' + title + BEL\ndef clear_screen(mode=2):\n    return CSI + str(mode) + 'J'\ndef clear_line(mode=2):\n    return CSI + str(mode) + 'K'\nclass AnsiCodes(object):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "Cursor",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "peekOfCode": "Cursor = AnsiCursor()",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansi",
+        "documentation": {}
+    },
+    {
+        "label": "StreamWrapper",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansitowin32",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansitowin32",
+        "peekOfCode": "class StreamWrapper(object):\n    '''\n    Wraps a stream (such as stdout), acting as a transparent proxy for all\n    attribute access apart from method 'write()', which is delegated to our\n    Converter instance.\n    '''\n    def __init__(self, wrapped, converter):\n        # double-underscore everything to prevent clashes with names of\n        # attributes on the wrapped stream object.\n        self.__wrapped = wrapped",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansitowin32",
+        "documentation": {}
+    },
+    {
+        "label": "AnsiToWin32",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansitowin32",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansitowin32",
+        "peekOfCode": "class AnsiToWin32(object):\n    '''\n    Implements a 'write()' method which, on Windows, will strip ANSI character\n    sequences from the text, and if outputting to a tty, will convert them into\n    win32 function calls.\n    '''\n    ANSI_CSI_RE = re.compile('\\001?\\033\\\\[((?:\\\\d|;)*)([a-zA-Z])\\002?')   # Control Sequence Introducer\n    ANSI_OSC_RE = re.compile('\\001?\\033\\\\]([^\\a]*)(\\a)\\002?')             # Operating System Command\n    def __init__(self, wrapped, convert=None, strip=None, autoreset=False):\n        # The wrapped stream (normally sys.stdout or sys.stderr)",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansitowin32",
+        "documentation": {}
+    },
+    {
+        "label": "winterm",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansitowin32",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansitowin32",
+        "peekOfCode": "winterm = None\nif windll is not None:\n    winterm = WinTerm()\nclass StreamWrapper(object):\n    '''\n    Wraps a stream (such as stdout), acting as a transparent proxy for all\n    attribute access apart from method 'write()', which is delegated to our\n    Converter instance.\n    '''\n    def __init__(self, wrapped, converter):",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.ansitowin32",
+        "documentation": {}
+    },
+    {
+        "label": "reset_all",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "peekOfCode": "def reset_all():\n    if AnsiToWin32 is not None:    # Issue #74: objects might become None at exit\n        AnsiToWin32(orig_stdout).reset_all()\ndef init(autoreset=False, convert=None, strip=None, wrap=True):\n    if not wrap and any([autoreset, convert, strip]):\n        raise ValueError('wrap=False conflicts with any other arg=True')\n    global wrapped_stdout, wrapped_stderr\n    global orig_stdout, orig_stderr\n    orig_stdout = sys.stdout\n    orig_stderr = sys.stderr",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "documentation": {}
+    },
+    {
+        "label": "init",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "peekOfCode": "def init(autoreset=False, convert=None, strip=None, wrap=True):\n    if not wrap and any([autoreset, convert, strip]):\n        raise ValueError('wrap=False conflicts with any other arg=True')\n    global wrapped_stdout, wrapped_stderr\n    global orig_stdout, orig_stderr\n    orig_stdout = sys.stdout\n    orig_stderr = sys.stderr\n    if sys.stdout is None:\n        wrapped_stdout = None\n    else:",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "documentation": {}
+    },
+    {
+        "label": "deinit",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "peekOfCode": "def deinit():\n    if orig_stdout is not None:\n        sys.stdout = orig_stdout\n    if orig_stderr is not None:\n        sys.stderr = orig_stderr\ndef just_fix_windows_console():\n    global fixed_windows_console\n    if sys.platform != \"win32\":\n        return\n    if fixed_windows_console:",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "documentation": {}
+    },
+    {
+        "label": "just_fix_windows_console",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "peekOfCode": "def just_fix_windows_console():\n    global fixed_windows_console\n    if sys.platform != \"win32\":\n        return\n    if fixed_windows_console:\n        return\n    if wrapped_stdout is not None or wrapped_stderr is not None:\n        # Someone already ran init() and it did stuff, so we won't second-guess them\n        return\n    # On newer versions of Windows, AnsiToWin32.__init__ will implicitly enable the",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "documentation": {}
+    },
+    {
+        "label": "colorama_text",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "peekOfCode": "def colorama_text(*args, **kwargs):\n    init(*args, **kwargs)\n    try:\n        yield\n    finally:\n        deinit()\ndef reinit():\n    if wrapped_stdout is not None:\n        sys.stdout = wrapped_stdout\n    if wrapped_stderr is not None:",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "documentation": {}
+    },
+    {
+        "label": "reinit",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "peekOfCode": "def reinit():\n    if wrapped_stdout is not None:\n        sys.stdout = wrapped_stdout\n    if wrapped_stderr is not None:\n        sys.stderr = wrapped_stderr\ndef wrap_stream(stream, convert, strip, autoreset, wrap):\n    if wrap:\n        wrapper = AnsiToWin32(stream,\n            convert=convert, strip=strip, autoreset=autoreset)\n        if wrapper.should_wrap():",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "documentation": {}
+    },
+    {
+        "label": "wrap_stream",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "peekOfCode": "def wrap_stream(stream, convert, strip, autoreset, wrap):\n    if wrap:\n        wrapper = AnsiToWin32(stream,\n            convert=convert, strip=strip, autoreset=autoreset)\n        if wrapper.should_wrap():\n            stream = wrapper.stream\n    return stream\n# Use this for initial setup as well, to reduce code duplication\n_wipe_internal_state_for_tests()",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.initialise",
+        "documentation": {}
+    },
+    {
+        "label": "STDOUT",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.win32",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.win32",
+        "peekOfCode": "STDOUT = -11\nSTDERR = -12\nENABLE_VIRTUAL_TERMINAL_PROCESSING = 0x0004\ntry:\n    import ctypes\n    from ctypes import LibraryLoader\n    windll = LibraryLoader(ctypes.WinDLL)\n    from ctypes import wintypes\nexcept (AttributeError, ImportError):\n    windll = None",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.win32",
+        "documentation": {}
+    },
+    {
+        "label": "STDERR",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.win32",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.win32",
+        "peekOfCode": "STDERR = -12\nENABLE_VIRTUAL_TERMINAL_PROCESSING = 0x0004\ntry:\n    import ctypes\n    from ctypes import LibraryLoader\n    windll = LibraryLoader(ctypes.WinDLL)\n    from ctypes import wintypes\nexcept (AttributeError, ImportError):\n    windll = None\n    SetConsoleTextAttribute = lambda *_: None",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.win32",
+        "documentation": {}
+    },
+    {
+        "label": "ENABLE_VIRTUAL_TERMINAL_PROCESSING",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.win32",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.win32",
+        "peekOfCode": "ENABLE_VIRTUAL_TERMINAL_PROCESSING = 0x0004\ntry:\n    import ctypes\n    from ctypes import LibraryLoader\n    windll = LibraryLoader(ctypes.WinDLL)\n    from ctypes import wintypes\nexcept (AttributeError, ImportError):\n    windll = None\n    SetConsoleTextAttribute = lambda *_: None\n    winapi_test = lambda *_: None",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.win32",
+        "documentation": {}
+    },
+    {
+        "label": "WinColor",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "peekOfCode": "class WinColor(object):\n    BLACK   = 0\n    BLUE    = 1\n    GREEN   = 2\n    CYAN    = 3\n    RED     = 4\n    MAGENTA = 5\n    YELLOW  = 6\n    GREY    = 7\n# from wincon.h",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "documentation": {}
+    },
+    {
+        "label": "WinStyle",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "peekOfCode": "class WinStyle(object):\n    NORMAL              = 0x00 # dim text, dim background\n    BRIGHT              = 0x08 # bright text, dim background\n    BRIGHT_BACKGROUND   = 0x80 # dim text, bright background\nclass WinTerm(object):\n    def __init__(self):\n        self._default = win32.GetConsoleScreenBufferInfo(win32.STDOUT).wAttributes\n        self.set_attrs(self._default)\n        self._default_fore = self._fore\n        self._default_back = self._back",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "documentation": {}
+    },
+    {
+        "label": "WinTerm",
+        "kind": 6,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "peekOfCode": "class WinTerm(object):\n    def __init__(self):\n        self._default = win32.GetConsoleScreenBufferInfo(win32.STDOUT).wAttributes\n        self.set_attrs(self._default)\n        self._default_fore = self._fore\n        self._default_back = self._back\n        self._default_style = self._style\n        # In order to emulate LIGHT_EX in windows, we borrow the BRIGHT style.\n        # So that LIGHT_EX colors and BRIGHT style do not clobber each other,\n        # we track them separately, since LIGHT_EX is overwritten by Fore/Back",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "documentation": {}
+    },
+    {
+        "label": "enable_vt_processing",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "peekOfCode": "def enable_vt_processing(fd):\n    if win32.windll is None or not win32.winapi_test():\n        return False\n    try:\n        handle = get_osfhandle(fd)\n        mode = win32.GetConsoleMode(handle)\n        win32.SetConsoleMode(\n            handle,\n            mode | win32.ENABLE_VIRTUAL_TERMINAL_PROCESSING,\n        )",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.colorama.winterm",
+        "documentation": {}
+    },
+    {
+        "label": "FORES",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "peekOfCode": "FORES = [ Fore.BLACK, Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN, Fore.WHITE ]\nBACKS = [ Back.BLACK, Back.RED, Back.GREEN, Back.YELLOW, Back.BLUE, Back.MAGENTA, Back.CYAN, Back.WHITE ]\nSTYLES = [ Style.DIM, Style.NORMAL, Style.BRIGHT ]\nNAMES = {\n    Fore.BLACK: 'black', Fore.RED: 'red', Fore.GREEN: 'green', Fore.YELLOW: 'yellow', Fore.BLUE: 'blue', Fore.MAGENTA: 'magenta', Fore.CYAN: 'cyan', Fore.WHITE: 'white'\n    , Fore.RESET: 'reset',\n    Back.BLACK: 'black', Back.RED: 'red', Back.GREEN: 'green', Back.YELLOW: 'yellow', Back.BLUE: 'blue', Back.MAGENTA: 'magenta', Back.CYAN: 'cyan', Back.WHITE: 'white',\n    Back.RESET: 'reset'\n}\n# show the color names",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "documentation": {}
+    },
+    {
+        "label": "BACKS",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "peekOfCode": "BACKS = [ Back.BLACK, Back.RED, Back.GREEN, Back.YELLOW, Back.BLUE, Back.MAGENTA, Back.CYAN, Back.WHITE ]\nSTYLES = [ Style.DIM, Style.NORMAL, Style.BRIGHT ]\nNAMES = {\n    Fore.BLACK: 'black', Fore.RED: 'red', Fore.GREEN: 'green', Fore.YELLOW: 'yellow', Fore.BLUE: 'blue', Fore.MAGENTA: 'magenta', Fore.CYAN: 'cyan', Fore.WHITE: 'white'\n    , Fore.RESET: 'reset',\n    Back.BLACK: 'black', Back.RED: 'red', Back.GREEN: 'green', Back.YELLOW: 'yellow', Back.BLUE: 'blue', Back.MAGENTA: 'magenta', Back.CYAN: 'cyan', Back.WHITE: 'white',\n    Back.RESET: 'reset'\n}\n# show the color names\nsys.stdout.write('        ')",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "documentation": {}
+    },
+    {
+        "label": "STYLES",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "peekOfCode": "STYLES = [ Style.DIM, Style.NORMAL, Style.BRIGHT ]\nNAMES = {\n    Fore.BLACK: 'black', Fore.RED: 'red', Fore.GREEN: 'green', Fore.YELLOW: 'yellow', Fore.BLUE: 'blue', Fore.MAGENTA: 'magenta', Fore.CYAN: 'cyan', Fore.WHITE: 'white'\n    , Fore.RESET: 'reset',\n    Back.BLACK: 'black', Back.RED: 'red', Back.GREEN: 'green', Back.YELLOW: 'yellow', Back.BLUE: 'blue', Back.MAGENTA: 'magenta', Back.CYAN: 'cyan', Back.WHITE: 'white',\n    Back.RESET: 'reset'\n}\n# show the color names\nsys.stdout.write('        ')\nfor foreground in FORES:",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "documentation": {}
+    },
+    {
+        "label": "NAMES",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "peekOfCode": "NAMES = {\n    Fore.BLACK: 'black', Fore.RED: 'red', Fore.GREEN: 'green', Fore.YELLOW: 'yellow', Fore.BLUE: 'blue', Fore.MAGENTA: 'magenta', Fore.CYAN: 'cyan', Fore.WHITE: 'white'\n    , Fore.RESET: 'reset',\n    Back.BLACK: 'black', Back.RED: 'red', Back.GREEN: 'green', Back.YELLOW: 'yellow', Back.BLUE: 'blue', Back.MAGENTA: 'magenta', Back.CYAN: 'cyan', Back.WHITE: 'white',\n    Back.RESET: 'reset'\n}\n# show the color names\nsys.stdout.write('        ')\nfor foreground in FORES:\n    sys.stdout.write('%s%-7s' % (foreground, NAMES[foreground]))",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo01",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "peekOfCode": "def main():\n    colorama.just_fix_windows_console()\n    pos = lambda y, x: Cursor.POS(x, y)\n    # draw a white border.\n    print(Back.WHITE, end='')\n    print('%s%s' % (pos(MINY, MINX), ' '*MAXX), end='')\n    for y in range(MINY, 1+MAXY):\n        print('%s %s ' % (pos(y, MINX), pos(y, MAXX)), end='')\n    print('%s%s' % (pos(MAXY, MINX), ' '*MAXX), end='')\n    # draw some blinky lights for a while.",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "documentation": {}
+    },
+    {
+        "label": "FORES",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "peekOfCode": "FORES = [ Fore.BLACK, Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN, Fore.WHITE ]\nBACKS = [ Back.BLACK, Back.RED, Back.GREEN, Back.YELLOW, Back.BLUE, Back.MAGENTA, Back.CYAN, Back.WHITE ]\nSTYLES = [ Style.DIM, Style.NORMAL, Style.BRIGHT ]\n# This assumes your terminal is 80x24. Ansi minimum coordinate is (1,1).\nMINY, MAXY = 1, 24\nMINX, MAXX = 1, 80\n# set of printable ASCII characters, including a space.\nCHARS = ' ' + printable.strip()\nPASSES = 1000\ndef main():",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "documentation": {}
+    },
+    {
+        "label": "BACKS",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "peekOfCode": "BACKS = [ Back.BLACK, Back.RED, Back.GREEN, Back.YELLOW, Back.BLUE, Back.MAGENTA, Back.CYAN, Back.WHITE ]\nSTYLES = [ Style.DIM, Style.NORMAL, Style.BRIGHT ]\n# This assumes your terminal is 80x24. Ansi minimum coordinate is (1,1).\nMINY, MAXY = 1, 24\nMINX, MAXX = 1, 80\n# set of printable ASCII characters, including a space.\nCHARS = ' ' + printable.strip()\nPASSES = 1000\ndef main():\n    colorama.just_fix_windows_console()",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "documentation": {}
+    },
+    {
+        "label": "STYLES",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "peekOfCode": "STYLES = [ Style.DIM, Style.NORMAL, Style.BRIGHT ]\n# This assumes your terminal is 80x24. Ansi minimum coordinate is (1,1).\nMINY, MAXY = 1, 24\nMINX, MAXX = 1, 80\n# set of printable ASCII characters, including a space.\nCHARS = ' ' + printable.strip()\nPASSES = 1000\ndef main():\n    colorama.just_fix_windows_console()\n    pos = lambda y, x: Cursor.POS(x, y)",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "documentation": {}
+    },
+    {
+        "label": "CHARS",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "peekOfCode": "CHARS = ' ' + printable.strip()\nPASSES = 1000\ndef main():\n    colorama.just_fix_windows_console()\n    pos = lambda y, x: Cursor.POS(x, y)\n    # draw a white border.\n    print(Back.WHITE, end='')\n    print('%s%s' % (pos(MINY, MINX), ' '*MAXX), end='')\n    for y in range(MINY, 1+MAXY):\n        print('%s %s ' % (pos(y, MINX), pos(y, MAXX)), end='')",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "documentation": {}
+    },
+    {
+        "label": "PASSES",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "peekOfCode": "PASSES = 1000\ndef main():\n    colorama.just_fix_windows_console()\n    pos = lambda y, x: Cursor.POS(x, y)\n    # draw a white border.\n    print(Back.WHITE, end='')\n    print('%s%s' % (pos(MINY, MINX), ' '*MAXX), end='')\n    for y in range(MINY, 1+MAXY):\n        print('%s %s ' % (pos(y, MINX), pos(y, MAXX)), end='')\n    print('%s%s' % (pos(MAXY, MINX), ' '*MAXX), end='')",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo06",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "peekOfCode": "def main():\n    \"\"\"\n    expected output:\n    1a2\n    aba\n    3a4\n    \"\"\"\n    colorama.just_fix_windows_console()\n    print(\"aaa\")\n    print(\"aaa\")",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "documentation": {}
+    },
+    {
+        "label": "up",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "peekOfCode": "up = colorama.Cursor.UP\ndown = colorama.Cursor.DOWN\nforward = colorama.Cursor.FORWARD\nback = colorama.Cursor.BACK\ndef main():\n    \"\"\"\n    expected output:\n    1a2\n    aba\n    3a4",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "documentation": {}
+    },
+    {
+        "label": "down",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "peekOfCode": "down = colorama.Cursor.DOWN\nforward = colorama.Cursor.FORWARD\nback = colorama.Cursor.BACK\ndef main():\n    \"\"\"\n    expected output:\n    1a2\n    aba\n    3a4\n    \"\"\"",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "documentation": {}
+    },
+    {
+        "label": "forward",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "peekOfCode": "forward = colorama.Cursor.FORWARD\nback = colorama.Cursor.BACK\ndef main():\n    \"\"\"\n    expected output:\n    1a2\n    aba\n    3a4\n    \"\"\"\n    colorama.just_fix_windows_console()",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "documentation": {}
+    },
+    {
+        "label": "back",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "peekOfCode": "back = colorama.Cursor.BACK\ndef main():\n    \"\"\"\n    expected output:\n    1a2\n    aba\n    3a4\n    \"\"\"\n    colorama.just_fix_windows_console()\n    print(\"aaa\")",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo07",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo08",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo08",
+        "peekOfCode": "def main():\n    \"\"\"automatically reset stdout\"\"\"\n    with colorama_text():\n        print(Fore.GREEN + 'text is green')\n        print(Fore.RESET + 'text is back to normal')\n    print('text is back to stdout')\nif __name__ == '__main__':\n    main()",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo08",
+        "documentation": {}
+    },
+    {
+        "label": "format",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "peekOfCode": "def format(module):\n    return list(map(lambda x: x.lower(),module.__dict__.keys()))\ndef find(module,item):\n    return module.__dict__[item.upper()]\nparser.add_argument(\"-c\",\"--colour\",choices=format(Fore),default=\"RESET\")\nparser.add_argument(\"-b\",\"--background\",choices=format(Back),default=\"RESET\")\nparser.add_argument(\"-s\",\"--style\",choices=format(Style),default=\"RESET_ALL\")\nparser.add_argument(\"-t\",\"--text\",default=\"Lorem ipsum dolor sit amet\")\nargs = parser.parse_args()\nprint(find(Style,args.style) + find(Fore,args.colour) + find(Back,args.background) + args.text + Style.RESET_ALL)",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "documentation": {}
+    },
+    {
+        "label": "find",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "peekOfCode": "def find(module,item):\n    return module.__dict__[item.upper()]\nparser.add_argument(\"-c\",\"--colour\",choices=format(Fore),default=\"RESET\")\nparser.add_argument(\"-b\",\"--background\",choices=format(Back),default=\"RESET\")\nparser.add_argument(\"-s\",\"--style\",choices=format(Style),default=\"RESET_ALL\")\nparser.add_argument(\"-t\",\"--text\",default=\"Lorem ipsum dolor sit amet\")\nargs = parser.parse_args()\nprint(find(Style,args.style) + find(Fore,args.colour) + find(Back,args.background) + args.text + Style.RESET_ALL)",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "peekOfCode": "parser = argparse.ArgumentParser(\"colorama demo\")\ndef format(module):\n    return list(map(lambda x: x.lower(),module.__dict__.keys()))\ndef find(module,item):\n    return module.__dict__[item.upper()]\nparser.add_argument(\"-c\",\"--colour\",choices=format(Fore),default=\"RESET\")\nparser.add_argument(\"-b\",\"--background\",choices=format(Back),default=\"RESET\")\nparser.add_argument(\"-s\",\"--style\",choices=format(Style),default=\"RESET_ALL\")\nparser.add_argument(\"-t\",\"--text\",default=\"Lorem ipsum dolor sit amet\")\nargs = parser.parse_args()",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "peekOfCode": "args = parser.parse_args()\nprint(find(Style,args.style) + find(Fore,args.colour) + find(Back,args.background) + args.text + Style.RESET_ALL)",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.demo09",
+        "documentation": {}
+    },
+    {
+        "label": "local_colorama_module",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.fixpath",
+        "description": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.fixpath",
+        "peekOfCode": "local_colorama_module = normpath(join(dirname(__file__), '..'))\nsys.path.insert(0, local_colorama_module)",
+        "detail": "Tim Buchalka.Functions_intro.colorama-0.4.6.colorama-0.4.6.demos.fixpath",
+        "documentation": {}
+    },
+    {
+        "label": "banner_text",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.banner",
+        "description": "Tim Buchalka.Functions_intro.banner",
+        "peekOfCode": "def banner_text(text: str = \" \",screen_width: int = 80) -> None:\n    \"\"\" Print a string centred, with ** either side.\n    :param text: The string to print.\n        An asterisk (*) will result in a row of asterisks.\n        The default will print a blank line, with a ** border at\n        the left and right edges.\n    :param screen_width: The overall width to print within\n        (including the 4 spaces for the ** either side).\n    :raises ValueError: if the supplied string is too long to fit.\n    \"\"\"",
+        "detail": "Tim Buchalka.Functions_intro.banner",
+        "documentation": {}
+    },
+    {
+        "label": "colour_print",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "def colour_print(text: str, *effects: str) -> None:\n    \"\"\"\n    Print `text` using the ANSI sequences to change colour, etc\n    :param text: The text to print.\n    :param effects: The effect we want.  One of the constants\n        defined at the start of this module.\n    \"\"\"\n    effect_string = \"\".join(effects)\n    output_string = \"{0}{1}{2}\".format(effect_string, text, RESET)#* RESET is there by default at the end of each line \n    print(output_string)",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "BLACK",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "BLACK = '\\u001b[30m'\nRED = '\\u001b[31m'\nGREEN = '\\u001b[32m'\nYELLOW = '\\u001b[33m'\nBLUE = '\\u001b[34m'\nMAGENTA = '\\u001b[35m'\nCYAN = '\\u001b[36m'\nWHITE = '\\u001b[37m'\nRESET = '\\u001b[0m'\nBOLD = '\\u001b[1m'",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "RED",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "RED = '\\u001b[31m'\nGREEN = '\\u001b[32m'\nYELLOW = '\\u001b[33m'\nBLUE = '\\u001b[34m'\nMAGENTA = '\\u001b[35m'\nCYAN = '\\u001b[36m'\nWHITE = '\\u001b[37m'\nRESET = '\\u001b[0m'\nBOLD = '\\u001b[1m'\nUNDERLINE = '\\u001b[4m'",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "GREEN",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "GREEN = '\\u001b[32m'\nYELLOW = '\\u001b[33m'\nBLUE = '\\u001b[34m'\nMAGENTA = '\\u001b[35m'\nCYAN = '\\u001b[36m'\nWHITE = '\\u001b[37m'\nRESET = '\\u001b[0m'\nBOLD = '\\u001b[1m'\nUNDERLINE = '\\u001b[4m'\nREVERSE = '\\u001b[7m'",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "YELLOW",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "YELLOW = '\\u001b[33m'\nBLUE = '\\u001b[34m'\nMAGENTA = '\\u001b[35m'\nCYAN = '\\u001b[36m'\nWHITE = '\\u001b[37m'\nRESET = '\\u001b[0m'\nBOLD = '\\u001b[1m'\nUNDERLINE = '\\u001b[4m'\nREVERSE = '\\u001b[7m'\ndef colour_print(text: str, *effects: str) -> None:",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "BLUE",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "BLUE = '\\u001b[34m'\nMAGENTA = '\\u001b[35m'\nCYAN = '\\u001b[36m'\nWHITE = '\\u001b[37m'\nRESET = '\\u001b[0m'\nBOLD = '\\u001b[1m'\nUNDERLINE = '\\u001b[4m'\nREVERSE = '\\u001b[7m'\ndef colour_print(text: str, *effects: str) -> None:\n    \"\"\"",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "MAGENTA",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "MAGENTA = '\\u001b[35m'\nCYAN = '\\u001b[36m'\nWHITE = '\\u001b[37m'\nRESET = '\\u001b[0m'\nBOLD = '\\u001b[1m'\nUNDERLINE = '\\u001b[4m'\nREVERSE = '\\u001b[7m'\ndef colour_print(text: str, *effects: str) -> None:\n    \"\"\"\n    Print `text` using the ANSI sequences to change colour, etc",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "CYAN",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "CYAN = '\\u001b[36m'\nWHITE = '\\u001b[37m'\nRESET = '\\u001b[0m'\nBOLD = '\\u001b[1m'\nUNDERLINE = '\\u001b[4m'\nREVERSE = '\\u001b[7m'\ndef colour_print(text: str, *effects: str) -> None:\n    \"\"\"\n    Print `text` using the ANSI sequences to change colour, etc\n    :param text: The text to print.",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "WHITE",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "WHITE = '\\u001b[37m'\nRESET = '\\u001b[0m'\nBOLD = '\\u001b[1m'\nUNDERLINE = '\\u001b[4m'\nREVERSE = '\\u001b[7m'\ndef colour_print(text: str, *effects: str) -> None:\n    \"\"\"\n    Print `text` using the ANSI sequences to change colour, etc\n    :param text: The text to print.\n    :param effects: The effect we want.  One of the constants",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "RESET",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "RESET = '\\u001b[0m'\nBOLD = '\\u001b[1m'\nUNDERLINE = '\\u001b[4m'\nREVERSE = '\\u001b[7m'\ndef colour_print(text: str, *effects: str) -> None:\n    \"\"\"\n    Print `text` using the ANSI sequences to change colour, etc\n    :param text: The text to print.\n    :param effects: The effect we want.  One of the constants\n        defined at the start of this module.",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "BOLD",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "BOLD = '\\u001b[1m'\nUNDERLINE = '\\u001b[4m'\nREVERSE = '\\u001b[7m'\ndef colour_print(text: str, *effects: str) -> None:\n    \"\"\"\n    Print `text` using the ANSI sequences to change colour, etc\n    :param text: The text to print.\n    :param effects: The effect we want.  One of the constants\n        defined at the start of this module.\n    \"\"\"",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "UNDERLINE",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "UNDERLINE = '\\u001b[4m'\nREVERSE = '\\u001b[7m'\ndef colour_print(text: str, *effects: str) -> None:\n    \"\"\"\n    Print `text` using the ANSI sequences to change colour, etc\n    :param text: The text to print.\n    :param effects: The effect we want.  One of the constants\n        defined at the start of this module.\n    \"\"\"\n    effect_string = \"\".join(effects)",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "REVERSE",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.color_print",
+        "description": "Tim Buchalka.Functions_intro.color_print",
+        "peekOfCode": "REVERSE = '\\u001b[7m'\ndef colour_print(text: str, *effects: str) -> None:\n    \"\"\"\n    Print `text` using the ANSI sequences to change colour, etc\n    :param text: The text to print.\n    :param effects: The effect we want.  One of the constants\n        defined at the start of this module.\n    \"\"\"\n    effect_string = \"\".join(effects)\n    output_string = \"{0}{1}{2}\".format(effect_string, text, RESET)#* RESET is there by default at the end of each line ",
+        "detail": "Tim Buchalka.Functions_intro.color_print",
+        "documentation": {}
+    },
+    {
+        "label": "factorial",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.fizbuzz_challenge",
+        "description": "Tim Buchalka.Functions_intro.fizbuzz_challenge",
+        "peekOfCode": "def factorial(n: int) -> int:\n    \"\"\"Return n! (0! is 1).\"\"\"\n    if n <= 1:\n        return 1\n    result = 2\n    for x in range(3, n + 1):\n        result *= x\n    return result\nfor i in range(36):\n    print(i, factorial(i))",
+        "detail": "Tim Buchalka.Functions_intro.fizbuzz_challenge",
+        "documentation": {}
+    },
+    {
+        "label": "multiply",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.functions",
+        "description": "Tim Buchalka.Functions_intro.functions",
+        "peekOfCode": "def multiply(x: float, y: float) -> float:\n    \"\"\"\n    Multiply 2 numbers.\n    Although this function is intended to multiply 2 numbers,\n    you can also use it to multiply a sequence.  If you pass\n    a string, for example, as the first argument, you'll get\n    the string repeated `y` times as the returned value.\n    :param x: The first number to multiply.\n    :param y: The number to multiply `x` by.\n    :return: The product of `x` and `y`.",
+        "detail": "Tim Buchalka.Functions_intro.functions",
+        "documentation": {}
+    },
+    {
+        "label": "is_palindrome",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.functions",
+        "description": "Tim Buchalka.Functions_intro.functions",
+        "peekOfCode": "def is_palindrome(string: str) -> bool:\n    \"\"\"\n    Check if a string is a palindrome.\n    A palindrome is a string that reads the same forwards as backwards.\n    :param string: The string to check.\n    :return: True if `string` is a palindrome, False otherwise.\n    \"\"\"\n    return string[::-1].casefold() == string.casefold()\ndef palindrome_sentence(sentence: str) -> bool:\n    \"\"\"",
+        "detail": "Tim Buchalka.Functions_intro.functions",
+        "documentation": {}
+    },
+    {
+        "label": "palindrome_sentence",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.functions",
+        "description": "Tim Buchalka.Functions_intro.functions",
+        "peekOfCode": "def palindrome_sentence(sentence: str) -> bool:\n    \"\"\"\n    Check if a sentence is a palindrome.\n    The function ignores whitespace, capitalisation and\n    punctuation in the sentence.\n    :param sentence: The sentence to check.\n    :return: True if `sentence` is a palindrome, False otherwise.\n    \"\"\"\n    string = \"\"\n    for char in sentence:",
+        "detail": "Tim Buchalka.Functions_intro.functions",
+        "documentation": {}
+    },
+    {
+        "label": "fibonacci",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.functions",
+        "description": "Tim Buchalka.Functions_intro.functions",
+        "peekOfCode": "def fibonacci(n: int) -> int:\n    \"\"\"Return the `n` th Fibonacci number, for positive `n`.\"\"\"\n    if 0 <= n <= 1:\n        return n\n    n_minus1, n_minus2 = 1, 0\n    # result = None\n    for f in range(n - 1):\n        result = n_minus2 + n_minus1\n        n_minus2 = n_minus1\n        n_minus1 = result",
+        "detail": "Tim Buchalka.Functions_intro.functions",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.functions",
+        "description": "Tim Buchalka.Functions_intro.functions",
+        "peekOfCode": "p = palindrome_sentence(\"242\")\n# !    red\n# ?    blue\n# todo orange\n# FIXME\n# TODO \n# //   line through\n# *    light green\n#      dark green",
+        "detail": "Tim Buchalka.Functions_intro.functions",
+        "documentation": {}
+    },
+    {
+        "label": "guess_binary",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.hilow_test",
+        "description": "Tim Buchalka.Functions_intro.hilow_test",
+        "peekOfCode": "def guess_binary(answer, low, high):\n    guesses = 1\n    while True:\n        # print(\"\\tGuessing in the range {} to {}\".format(low, high))\n        guess = low + (high - low) // 2\n        # high_low = input(\"My guess is {}. Should I guess higher or lower? Enter h or l, or c if my guess was correct.\"\n        #                  .format(guess)).casefold()\n        # if high_low == \"h\":\n        if guess < answer:\n            # I have to guess higher.  The low end of the range becomes 1 greater than the guess.",
+        "detail": "Tim Buchalka.Functions_intro.hilow_test",
+        "documentation": {}
+    },
+    {
+        "label": "LOW",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.hilow_test",
+        "description": "Tim Buchalka.Functions_intro.hilow_test",
+        "peekOfCode": "LOW = 1\nHIGH = 65535\nimport os;os.system('cls')\n# print(\"Please think of a number between 1 and 1000\")\n# input(\"Press ENTER to start\")\ndef guess_binary(answer, low, high):\n    guesses = 1\n    while True:\n        # print(\"\\tGuessing in the range {} to {}\".format(low, high))\n        guess = low + (high - low) // 2",
+        "detail": "Tim Buchalka.Functions_intro.hilow_test",
+        "documentation": {}
+    },
+    {
+        "label": "HIGH",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.hilow_test",
+        "description": "Tim Buchalka.Functions_intro.hilow_test",
+        "peekOfCode": "HIGH = 65535\nimport os;os.system('cls')\n# print(\"Please think of a number between 1 and 1000\")\n# input(\"Press ENTER to start\")\ndef guess_binary(answer, low, high):\n    guesses = 1\n    while True:\n        # print(\"\\tGuessing in the range {} to {}\".format(low, high))\n        guess = low + (high - low) // 2\n        # high_low = input(\"My guess is {}. Should I guess higher or lower? Enter h or l, or c if my guess was correct.\"",
+        "detail": "Tim Buchalka.Functions_intro.hilow_test",
+        "documentation": {}
+    },
+    {
+        "label": "correct_count",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.hilow_test",
+        "description": "Tim Buchalka.Functions_intro.hilow_test",
+        "peekOfCode": "correct_count = 0\nmax_guesses = 0\nfor number in range(LOW, HIGH + 1):\n    number_of_guesses = guess_binary(number, LOW, HIGH)\n    print(\"{} guessed in {}\".format(number, number_of_guesses))\n    if number_of_guesses > max_guesses:\n        max_guesses, correct_count = number_of_guesses, 1\n    elif number_of_guesses == max_guesses:\n        correct_count += 1\nprint(\"I guessed without being told {} times. Max {} guesses.\"",
+        "detail": "Tim Buchalka.Functions_intro.hilow_test",
+        "documentation": {}
+    },
+    {
+        "label": "max_guesses",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.hilow_test",
+        "description": "Tim Buchalka.Functions_intro.hilow_test",
+        "peekOfCode": "max_guesses = 0\nfor number in range(LOW, HIGH + 1):\n    number_of_guesses = guess_binary(number, LOW, HIGH)\n    print(\"{} guessed in {}\".format(number, number_of_guesses))\n    if number_of_guesses > max_guesses:\n        max_guesses, correct_count = number_of_guesses, 1\n    elif number_of_guesses == max_guesses:\n        correct_count += 1\nprint(\"I guessed without being told {} times. Max {} guesses.\"\n      .format(correct_count,max_guesses))",
+        "detail": "Tim Buchalka.Functions_intro.hilow_test",
+        "documentation": {}
+    },
+    {
+        "label": "sum_numbers",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.parameter_types",
+        "description": "Tim Buchalka.Functions_intro.parameter_types",
+        "peekOfCode": "def sum_numbers(*values: float) -> float:\n    result = 0\n    for number in values:\n        result += number\n    return result\nprint(sum_numbers(1,2,3))\nprint(sum_numbers(8,20,2))\nprint(sum_numbers(12.5,3.147,98.1))\nprint(sum_numbers(1.1,2.2,5.5))",
+        "detail": "Tim Buchalka.Functions_intro.parameter_types",
+        "documentation": {}
+    },
+    {
+        "label": "test_star",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.star_example",
+        "description": "Tim Buchalka.Functions_intro.star_example",
+        "peekOfCode": "def test_star(*args):\n    print(args)\n    for x in args:\n        print(x)\ntest_star(0,1,2,3,4,5)\nprint()\ntest_star()",
+        "detail": "Tim Buchalka.Functions_intro.star_example",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.star_example",
+        "description": "Tim Buchalka.Functions_intro.star_example",
+        "peekOfCode": "numbers = (0,1,2,3,4,5);import os;os.system('cls')\n# print(numbers, sep=\";\")#* tuples count as a single item\n# print(*numbers, sep=\";\")#* the * unpacks the tuple \n# print(0,1,2,3,4,5, sep=\";\")\ndef test_star(*args):\n    print(args)\n    for x in args:\n        print(x)\ntest_star(0,1,2,3,4,5)\nprint()",
+        "detail": "Tim Buchalka.Functions_intro.star_example",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.aa",
+        "description": "Tim Buchalka.LearnProgramming.aa",
+        "peekOfCode": "x = 23\nx += 1\nprint(x)# 24\nx -= 4\nprint(x)# 20\nx *= 5\nprint(x)# 100\nx //= 4\nprint(x)# 25\nx /= 5",
+        "detail": "Tim Buchalka.LearnProgramming.aa",
+        "documentation": {}
+    },
+    {
+        "label": "greeting",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.aa",
+        "description": "Tim Buchalka.LearnProgramming.aa",
+        "peekOfCode": "greeting = \"Good \"\ngreeting += \"Morning\"\ngreeting *= 5\nprint(greeting) # Good MorningGood MorningGood MorningGood MorningGood Morning",
+        "detail": "Tim Buchalka.LearnProgramming.aa",
+        "documentation": {}
+    },
+    {
+        "label": "available_exits",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.adventure",
+        "description": "Tim Buchalka.LearnProgramming.adventure",
+        "peekOfCode": "available_exits = [\"north\", \"south\", \"east\", \"west\"] ; import os;os.system('cls')\nchosen_exit = \"\"\nwhile chosen_exit not in available_exits:\n    chosen_exit = input(\"Pleaase choose a direction: \").casefold()\n    if chosen_exit == \"quit\":\n        print(\"Game over\")\n        break\nprint(\"aren't you glad you got out of there\")",
+        "detail": "Tim Buchalka.LearnProgramming.adventure",
+        "documentation": {}
+    },
+    {
+        "label": "chosen_exit",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.adventure",
+        "description": "Tim Buchalka.LearnProgramming.adventure",
+        "peekOfCode": "chosen_exit = \"\"\nwhile chosen_exit not in available_exits:\n    chosen_exit = input(\"Pleaase choose a direction: \").casefold()\n    if chosen_exit == \"quit\":\n        print(\"Game over\")\n        break\nprint(\"aren't you glad you got out of there\")",
+        "detail": "Tim Buchalka.LearnProgramming.adventure",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.blocks",
+        "description": "Tim Buchalka.LearnProgramming.blocks",
+        "peekOfCode": "name = input(\"Please enter your name: \")\nage = int(input(\"How old are you, {0}? \".format(name)))\n# print(age)\n# if age >= 18:\n#     print(\"You are old enough to vote\")\n#     print(\"Please put an X in the box\")\n# else:\n#     print(\"Please come back in {0} years\".format(18 - age))\nif age < 18: # GREATER THAN 18 BUT NOT 900\n     print(\"Please come back in {0} years\".format(18 - age))",
+        "detail": "Tim Buchalka.LearnProgramming.blocks",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.blocks",
+        "description": "Tim Buchalka.LearnProgramming.blocks",
+        "peekOfCode": "age = int(input(\"How old are you, {0}? \".format(name)))\n# print(age)\n# if age >= 18:\n#     print(\"You are old enough to vote\")\n#     print(\"Please put an X in the box\")\n# else:\n#     print(\"Please come back in {0} years\".format(18 - age))\nif age < 18: # GREATER THAN 18 BUT NOT 900\n     print(\"Please come back in {0} years\".format(18 - age))\nelif age == 900: # EQUAL TO 900 ONLY",
+        "detail": "Tim Buchalka.LearnProgramming.blocks",
+        "documentation": {}
+    },
+    {
+        "label": "available_parts",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.buy_computer",
+        "description": "Tim Buchalka.LearnProgramming.buy_computer",
+        "peekOfCode": "available_parts = [\"computer\",\n                   \"monitor\",\n                   \"keyboard\",\n                   \"mouse\",\n                   \"hdmi cable\",\n                   \"dvd drive\",\n                   ]\n# valid_choices = [str(i) for i in range(1, len(available_parts) + 1)]\nvalid_choices = []\nfor i in range(1, len(available_parts) + 1):",
+        "detail": "Tim Buchalka.LearnProgramming.buy_computer",
+        "documentation": {}
+    },
+    {
+        "label": "valid_choices",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.buy_computer",
+        "description": "Tim Buchalka.LearnProgramming.buy_computer",
+        "peekOfCode": "valid_choices = []\nfor i in range(1, len(available_parts) + 1):\n    valid_choices.append(str(i))\nprint(valid_choices)\ncurrent_choice = '-'\ncomputer_parts = []  # create an empty list\navailable_parts.sort()\nwhile current_choice != '0':\n    if current_choice in valid_choices:\n        index = int(current_choice) - 1",
+        "detail": "Tim Buchalka.LearnProgramming.buy_computer",
+        "documentation": {}
+    },
+    {
+        "label": "current_choice",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.buy_computer",
+        "description": "Tim Buchalka.LearnProgramming.buy_computer",
+        "peekOfCode": "current_choice = '-'\ncomputer_parts = []  # create an empty list\navailable_parts.sort()\nwhile current_choice != '0':\n    if current_choice in valid_choices:\n        index = int(current_choice) - 1\n        chosen_part = available_parts[index]\n        if chosen_part in computer_parts:\n            # it's already in, so remove it\n            print(\"Removing {}\".format(current_choice))",
+        "detail": "Tim Buchalka.LearnProgramming.buy_computer",
+        "documentation": {}
+    },
+    {
+        "label": "computer_parts",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.buy_computer",
+        "description": "Tim Buchalka.LearnProgramming.buy_computer",
+        "peekOfCode": "computer_parts = []  # create an empty list\navailable_parts.sort()\nwhile current_choice != '0':\n    if current_choice in valid_choices:\n        index = int(current_choice) - 1\n        chosen_part = available_parts[index]\n        if chosen_part in computer_parts:\n            # it's already in, so remove it\n            print(\"Removing {}\".format(current_choice))\n            computer_parts.remove(chosen_part)",
+        "detail": "Tim Buchalka.LearnProgramming.buy_computer",
+        "documentation": {}
+    },
+    {
+        "label": "parrot",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.checkingin",
+        "description": "Tim Buchalka.LearnProgramming.checkingin",
+        "peekOfCode": "parrot = \"Norwegian Blue\"     ;import os;os.system('cls')\nletter = input(\"Enter a character: \")\nif letter in parrot:\n    print(\"{} is in {}\".format(letter, parrot))\nelse:\n    print(\"I don't neet that letter\")",
+        "detail": "Tim Buchalka.LearnProgramming.checkingin",
+        "documentation": {}
+    },
+    {
+        "label": "letter",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.checkingin",
+        "description": "Tim Buchalka.LearnProgramming.checkingin",
+        "peekOfCode": "letter = input(\"Enter a character: \")\nif letter in parrot:\n    print(\"{} is in {}\".format(letter, parrot))\nelse:\n    print(\"I don't neet that letter\")",
+        "detail": "Tim Buchalka.LearnProgramming.checkingin",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.conditions",
+        "description": "Tim Buchalka.LearnProgramming.conditions",
+        "peekOfCode": "age = int(input(\"How old are you? \"))\nif age not in range(16,66):\n    print(\"Enjoy your free time\")\nelse:\n    print(\"Have a good day at work\")",
+        "detail": "Tim Buchalka.LearnProgramming.conditions",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.contrived",
+        "description": "Tim Buchalka.LearnProgramming.contrived",
+        "peekOfCode": "numbers = [1, 46, 31, 12, 60];import os;os.system('cls')\nfor number in numbers:\n    if number % 8 == 0:\n        # reject the list\n        print(\"The numbers are unacceptable!\")\n        break\nelse:\n    print(\"All those numbers are fine\")",
+        "detail": "Tim Buchalka.LearnProgramming.contrived",
+        "documentation": {}
+    },
+    {
+        "label": "split_string",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.escapechar",
+        "description": "Tim Buchalka.LearnProgramming.escapechar",
+        "peekOfCode": "split_string = \"This string has been\\nsplit over\\nseveral\\nlines\"\nprint(split_string)\ntabbed_string = \"1\\t2\\t3\\t4\\t5\"\nprint(tabbed_string)\nprint('The pet shop owner said \" No, no, \\'e\\'s uh,...he\\'s resting\". ')\n# or \nprint(\"The pet shop owner said \\\" No, no, 'e's uh,...he's resting\\\". \") # escape double quotes\nprint(\"\"\"The pet shop owner said No, no, 'e's uh,...he's resting. \"\"\") # triple quotes\nanother_split_string = \"\"\"This string has been\nsplit over",
+        "detail": "Tim Buchalka.LearnProgramming.escapechar",
+        "documentation": {}
+    },
+    {
+        "label": "tabbed_string",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.escapechar",
+        "description": "Tim Buchalka.LearnProgramming.escapechar",
+        "peekOfCode": "tabbed_string = \"1\\t2\\t3\\t4\\t5\"\nprint(tabbed_string)\nprint('The pet shop owner said \" No, no, \\'e\\'s uh,...he\\'s resting\". ')\n# or \nprint(\"The pet shop owner said \\\" No, no, 'e's uh,...he's resting\\\". \") # escape double quotes\nprint(\"\"\"The pet shop owner said No, no, 'e's uh,...he's resting. \"\"\") # triple quotes\nanother_split_string = \"\"\"This string has been\nsplit over\nseveral\nlines\"\"\"",
+        "detail": "Tim Buchalka.LearnProgramming.escapechar",
+        "documentation": {}
+    },
+    {
+        "label": "another_split_string",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.escapechar",
+        "description": "Tim Buchalka.LearnProgramming.escapechar",
+        "peekOfCode": "another_split_string = \"\"\"This string has been\nsplit over\nseveral\nlines\"\"\"\nprint(another_split_string)\nprint(\"C:\\\\Users\\\\timbuchalka\\\\notes.txt\") # escape backslash\nprint(r\"C:\\Users\\timbuchalka\\notes.txt\") # raw string",
+        "detail": "Tim Buchalka.LearnProgramming.escapechar",
+        "documentation": {}
+    },
+    {
+        "label": "parrot",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.forloop",
+        "description": "Tim Buchalka.LearnProgramming.forloop",
+        "peekOfCode": "parrot = \"Norwegian Blue\";import os;os.system('cls')\nfor character in parrot:\n    print(character)",
+        "detail": "Tim Buchalka.LearnProgramming.forloop",
+        "documentation": {}
+    },
+    {
+        "label": "quote",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.forloopchallenge",
+        "description": "Tim Buchalka.LearnProgramming.forloopchallenge",
+        "peekOfCode": "quote = \"\"\"\nAlright, but apart from the Sanitation, the Medicine, Education, Wine,\nPublic Order, Irrigation, Roads, the Fresh-Water System,\nand Public Health, what have the Romans ever done for us?\n\"\"\"\ncap = []\nfor char in quote:\n    if char == char.upper():\n        cap.append(char)\nprint(cap)",
+        "detail": "Tim Buchalka.LearnProgramming.forloopchallenge",
+        "documentation": {}
+    },
+    {
+        "label": "cap",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.forloopchallenge",
+        "description": "Tim Buchalka.LearnProgramming.forloopchallenge",
+        "peekOfCode": "cap = []\nfor char in quote:\n    if char == char.upper():\n        cap.append(char)\nprint(cap)",
+        "detail": "Tim Buchalka.LearnProgramming.forloopchallenge",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.gobackwards",
+        "description": "Tim Buchalka.LearnProgramming.gobackwards",
+        "peekOfCode": "data = [104,101,4,105,308,103,5,\n        107,100,306,106,102,108];import os;os.system('cls')\nmin_valid = 100\nmax_valid = 200\n# for index in range(len(data)-1, -1, -1):#start at the end and go backwards\n#     if data[index] < min_valid or data[index] > max_valid:\n#         print(index,data)\n#         del data[index]\ntop_index = len(data)-1 #len get the length of the data list -1\nfor index,value in enumerate(reversed(data)):",
+        "detail": "Tim Buchalka.LearnProgramming.gobackwards",
+        "documentation": {}
+    },
+    {
+        "label": "min_valid",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.gobackwards",
+        "description": "Tim Buchalka.LearnProgramming.gobackwards",
+        "peekOfCode": "min_valid = 100\nmax_valid = 200\n# for index in range(len(data)-1, -1, -1):#start at the end and go backwards\n#     if data[index] < min_valid or data[index] > max_valid:\n#         print(index,data)\n#         del data[index]\ntop_index = len(data)-1 #len get the length of the data list -1\nfor index,value in enumerate(reversed(data)):\n    if value < min_valid or value > max_valid:\n        print(top_index - index,value)",
+        "detail": "Tim Buchalka.LearnProgramming.gobackwards",
+        "documentation": {}
+    },
+    {
+        "label": "max_valid",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.gobackwards",
+        "description": "Tim Buchalka.LearnProgramming.gobackwards",
+        "peekOfCode": "max_valid = 200\n# for index in range(len(data)-1, -1, -1):#start at the end and go backwards\n#     if data[index] < min_valid or data[index] > max_valid:\n#         print(index,data)\n#         del data[index]\ntop_index = len(data)-1 #len get the length of the data list -1\nfor index,value in enumerate(reversed(data)):\n    if value < min_valid or value > max_valid:\n        print(top_index - index,value)\nprint(data)#Remove items outside the range 100-200",
+        "detail": "Tim Buchalka.LearnProgramming.gobackwards",
+        "documentation": {}
+    },
+    {
+        "label": "top_index",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.gobackwards",
+        "description": "Tim Buchalka.LearnProgramming.gobackwards",
+        "peekOfCode": "top_index = len(data)-1 #len get the length of the data list -1\nfor index,value in enumerate(reversed(data)):\n    if value < min_valid or value > max_valid:\n        print(top_index - index,value)\nprint(data)#Remove items outside the range 100-200",
+        "detail": "Tim Buchalka.LearnProgramming.gobackwards",
+        "documentation": {}
+    },
+    {
+        "label": "get_integer",
+        "kind": 2,
+        "importPath": "Tim Buchalka.LearnProgramming.guessinggame",
+        "description": "Tim Buchalka.LearnProgramming.guessinggame",
+        "peekOfCode": "def get_integer(prompt):\n    \"\"\"\n    Gets an integer from Standard Input (stdin).\n    The function will continue looping, and prompting\n    the user, until a valid `int` is entered. \n    :param prompt: The string that the user will see, when\n        they're prompted to enter the value.\n    :return: The integer that the user enters.\n    \"\"\"\n    while True:",
+        "detail": "Tim Buchalka.LearnProgramming.guessinggame",
+        "documentation": {}
+    },
+    {
+        "label": "highest",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.guessinggame",
+        "description": "Tim Buchalka.LearnProgramming.guessinggame",
+        "peekOfCode": "highest = 1000\nanswer = random.randint(1,highest)\nprint(answer) # TODO: Remove after testing\nguess = 0\nattemp = 0\nwhile guess != answer:\n    guess = get_integer(\": \")\n    if guess < answer:\n       print(\"Please guess higher\")\n    elif guess > answer:",
+        "detail": "Tim Buchalka.LearnProgramming.guessinggame",
+        "documentation": {}
+    },
+    {
+        "label": "answer",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.guessinggame",
+        "description": "Tim Buchalka.LearnProgramming.guessinggame",
+        "peekOfCode": "answer = random.randint(1,highest)\nprint(answer) # TODO: Remove after testing\nguess = 0\nattemp = 0\nwhile guess != answer:\n    guess = get_integer(\": \")\n    if guess < answer:\n       print(\"Please guess higher\")\n    elif guess > answer:\n        print(\"Please guess lower\")",
+        "detail": "Tim Buchalka.LearnProgramming.guessinggame",
+        "documentation": {}
+    },
+    {
+        "label": "guess",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.guessinggame",
+        "description": "Tim Buchalka.LearnProgramming.guessinggame",
+        "peekOfCode": "guess = 0\nattemp = 0\nwhile guess != answer:\n    guess = get_integer(\": \")\n    if guess < answer:\n       print(\"Please guess higher\")\n    elif guess > answer:\n        print(\"Please guess lower\")\nif guess == answer and attemp == 1:\n    print(\"You got it right the first time\")",
+        "detail": "Tim Buchalka.LearnProgramming.guessinggame",
+        "documentation": {}
+    },
+    {
+        "label": "attemp",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.guessinggame",
+        "description": "Tim Buchalka.LearnProgramming.guessinggame",
+        "peekOfCode": "attemp = 0\nwhile guess != answer:\n    guess = get_integer(\": \")\n    if guess < answer:\n       print(\"Please guess higher\")\n    elif guess > answer:\n        print(\"Please guess lower\")\nif guess == answer and attemp == 1:\n    print(\"You got it right the first time\")\nelse:",
+        "detail": "Tim Buchalka.LearnProgramming.guessinggame",
+        "documentation": {}
+    },
+    {
+        "label": "low",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.highlow",
+        "description": "Tim Buchalka.LearnProgramming.highlow",
+        "peekOfCode": "low = 1 \nhigh = 1000\nprint(\"Please think of a number between {} and {}\".format(low,high))\ninput(\"Press ENTER to start \")\nguesses = 1\nwhile True:\n    print(\"\\tGuessing the range of {} to {}\".format(low, high))\n    guess = low + (high - low) // 2\n    high_low = input(\"My guess is {}. Should I guess higher or lower? Enter h or l, or c if my guess was correct \".format(guess)).casefold()\n    if high_low == \"h\":",
+        "detail": "Tim Buchalka.LearnProgramming.highlow",
+        "documentation": {}
+    },
+    {
+        "label": "high",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.highlow",
+        "description": "Tim Buchalka.LearnProgramming.highlow",
+        "peekOfCode": "high = 1000\nprint(\"Please think of a number between {} and {}\".format(low,high))\ninput(\"Press ENTER to start \")\nguesses = 1\nwhile True:\n    print(\"\\tGuessing the range of {} to {}\".format(low, high))\n    guess = low + (high - low) // 2\n    high_low = input(\"My guess is {}. Should I guess higher or lower? Enter h or l, or c if my guess was correct \".format(guess)).casefold()\n    if high_low == \"h\":\n        low = guess + 1 ",
+        "detail": "Tim Buchalka.LearnProgramming.highlow",
+        "documentation": {}
+    },
+    {
+        "label": "guesses",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.highlow",
+        "description": "Tim Buchalka.LearnProgramming.highlow",
+        "peekOfCode": "guesses = 1\nwhile True:\n    print(\"\\tGuessing the range of {} to {}\".format(low, high))\n    guess = low + (high - low) // 2\n    high_low = input(\"My guess is {}. Should I guess higher or lower? Enter h or l, or c if my guess was correct \".format(guess)).casefold()\n    if high_low == \"h\":\n        low = guess + 1 \n        print(low)\n    elif high_low == \"l\":\n        high = guess - 1",
+        "detail": "Tim Buchalka.LearnProgramming.highlow",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.ifchallenge",
+        "description": "Tim Buchalka.LearnProgramming.ifchallenge",
+        "peekOfCode": "name = \"Michael\" #input(\"Hello, what is your name? \")\nage = int(input(\"What is your age? \"))\nif age >= 18 and age <= 30:# age is between 18-30\n    print(\"Welcome {} you can come on holiday!\".format(name))\nelif age < 18:# age is under 18\n    print(\"Sorry {} your too young wait another {} years\".format(name, 18 - age))\nelse:# age is over 30\n    print(\"Listen old man {} your {} years too late!\".format(name, age - 30))",
+        "detail": "Tim Buchalka.LearnProgramming.ifchallenge",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.ifchallenge",
+        "description": "Tim Buchalka.LearnProgramming.ifchallenge",
+        "peekOfCode": "age = int(input(\"What is your age? \"))\nif age >= 18 and age <= 30:# age is between 18-30\n    print(\"Welcome {} you can come on holiday!\".format(name))\nelif age < 18:# age is under 18\n    print(\"Sorry {} your too young wait another {} years\".format(name, 18 - age))\nelse:# age is over 30\n    print(\"Listen old man {} your {} years too late!\".format(name, age - 30))",
+        "detail": "Tim Buchalka.LearnProgramming.ifchallenge",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.immutable",
+        "description": "Tim Buchalka.LearnProgramming.immutable",
+        "peekOfCode": "result = \"Correct\"\nanother_result = result\nprint(id(result))\nprint(id(another_result))\nresult += \"ish\"\nprint(id(result))\nprint(id(another_result))",
+        "detail": "Tim Buchalka.LearnProgramming.immutable",
+        "documentation": {}
+    },
+    {
+        "label": "another_result",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.immutable",
+        "description": "Tim Buchalka.LearnProgramming.immutable",
+        "peekOfCode": "another_result = result\nprint(id(result))\nprint(id(another_result))\nresult += \"ish\"\nprint(id(result))\nprint(id(another_result))",
+        "detail": "Tim Buchalka.LearnProgramming.immutable",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.interpolation",
+        "description": "Tim Buchalka.LearnProgramming.interpolation",
+        "peekOfCode": "age = 24\n# print(\"My age is %d years\" % age ) # old style formatting \n# print(\"My age is {0}\".format(age)) # use format method to insert integer into string\n# print(f\"My age is {age} years\") # f-string, available in Python 3.6 and later\nmajor = \"years\"\nminor = \"months\"\nprint(\"My age is %d %s, %d %s\" %(age, major, 6, minor))# replacement in order not based on letter \nprint(\"PI is approcimately %60.50f\" %(22/7)) # %60.50f",
+        "detail": "Tim Buchalka.LearnProgramming.interpolation",
+        "documentation": {}
+    },
+    {
+        "label": "major",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.interpolation",
+        "description": "Tim Buchalka.LearnProgramming.interpolation",
+        "peekOfCode": "major = \"years\"\nminor = \"months\"\nprint(\"My age is %d %s, %d %s\" %(age, major, 6, minor))# replacement in order not based on letter \nprint(\"PI is approcimately %60.50f\" %(22/7)) # %60.50f",
+        "detail": "Tim Buchalka.LearnProgramming.interpolation",
+        "documentation": {}
+    },
+    {
+        "label": "minor",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.interpolation",
+        "description": "Tim Buchalka.LearnProgramming.interpolation",
+        "peekOfCode": "minor = \"months\"\nprint(\"My age is %d %s, %d %s\" %(age, major, 6, minor))# replacement in order not based on letter \nprint(\"PI is approcimately %60.50f\" %(22/7)) # %60.50f",
+        "detail": "Tim Buchalka.LearnProgramming.interpolation",
+        "documentation": {}
+    },
+    {
+        "label": "flowers",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.joining_things",
+        "description": "Tim Buchalka.LearnProgramming.joining_things",
+        "peekOfCode": "flowers = [\n    \"Daffodil\",\n    \"Evening Primrose\",\n    \"Hydrangea\",\n    \"Iris\",\n    \"Lavender\",\n    \"Sunflower\",\n    \"Tiger Lily\",\n];import os;os.system('cls')\n# for index,flower in enumerate(flowers):",
+        "detail": "Tim Buchalka.LearnProgramming.joining_things",
+        "documentation": {}
+    },
+    {
+        "label": "separator",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.joining_things",
+        "description": "Tim Buchalka.LearnProgramming.joining_things",
+        "peekOfCode": "separator = \", \"\noutput = separator.join(flowers)\nprint(output)\nprint()\nprint(\",\".join(flowers))",
+        "detail": "Tim Buchalka.LearnProgramming.joining_things",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.joining_things",
+        "description": "Tim Buchalka.LearnProgramming.joining_things",
+        "peekOfCode": "output = separator.join(flowers)\nprint(output)\nprint()\nprint(\",\".join(flowers))",
+        "detail": "Tim Buchalka.LearnProgramming.joining_things",
+        "documentation": {}
+    },
+    {
+        "label": "SONGS_LIST_INDEX",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.jukebox_menu",
+        "description": "Tim Buchalka.LearnProgramming.jukebox_menu",
+        "peekOfCode": "SONGS_LIST_INDEX = 3\nSONG_TITLE_INDEX = 1\nwhile True:\n    print(\"Please choose your album (invalid choice exits):\")\n    for index, (title, artist, year, songs) in enumerate(albums): # from the nested_data index [0][1][2][3]\n        print(\"{}: {}\".format(index + 1, title))\n    choice = int(input())\n    if 1 <= choice <= len(albums):\n        songs_list = albums[choice -1][SONGS_LIST_INDEX]\n    else:",
+        "detail": "Tim Buchalka.LearnProgramming.jukebox_menu",
+        "documentation": {}
+    },
+    {
+        "label": "SONG_TITLE_INDEX",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.jukebox_menu",
+        "description": "Tim Buchalka.LearnProgramming.jukebox_menu",
+        "peekOfCode": "SONG_TITLE_INDEX = 1\nwhile True:\n    print(\"Please choose your album (invalid choice exits):\")\n    for index, (title, artist, year, songs) in enumerate(albums): # from the nested_data index [0][1][2][3]\n        print(\"{}: {}\".format(index + 1, title))\n    choice = int(input())\n    if 1 <= choice <= len(albums):\n        songs_list = albums[choice -1][SONGS_LIST_INDEX]\n    else:\n        break",
+        "detail": "Tim Buchalka.LearnProgramming.jukebox_menu",
+        "documentation": {}
+    },
+    {
+        "label": "computer_parts",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.list_into",
+        "description": "Tim Buchalka.LearnProgramming.list_into",
+        "peekOfCode": "computer_parts = [\"computer\",\n                   \"monitor\",\n                   \"keyboard\",\n                   \"mouse\",\n                   \"mouse mat\"\n                   ];import os;os.system('cls')\nprint(computer_parts)\n# computer_parts[3] = \"trackball\"\nprint(computer_parts[3:]) # ['mouse', 'mouse mat']\ncomputer_parts[3:] = \"trackball\"",
+        "detail": "Tim Buchalka.LearnProgramming.list_into",
+        "documentation": {}
+    },
+    {
+        "label": "computer_parts[3:]",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.list_into",
+        "description": "Tim Buchalka.LearnProgramming.list_into",
+        "peekOfCode": "computer_parts[3:] = \"trackball\"\nprint(computer_parts)",
+        "detail": "Tim Buchalka.LearnProgramming.list_into",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.moreprint",
+        "description": "Tim Buchalka.LearnProgramming.moreprint",
+        "peekOfCode": "name = \"Michael\";import os;os.system('cls')\nage = 10\nprint(name,age, \"Python\", 2025)\napple = ((name,age, \"Python\", 2025))\nfor i in apple:\n    print(i,end=\" \")\nprint(\"\\n\"*5)",
+        "detail": "Tim Buchalka.LearnProgramming.moreprint",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.moreprint",
+        "description": "Tim Buchalka.LearnProgramming.moreprint",
+        "peekOfCode": "age = 10\nprint(name,age, \"Python\", 2025)\napple = ((name,age, \"Python\", 2025))\nfor i in apple:\n    print(i,end=\" \")\nprint(\"\\n\"*5)",
+        "detail": "Tim Buchalka.LearnProgramming.moreprint",
+        "documentation": {}
+    },
+    {
+        "label": "apple",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.moreprint",
+        "description": "Tim Buchalka.LearnProgramming.moreprint",
+        "peekOfCode": "apple = ((name,age, \"Python\", 2025))\nfor i in apple:\n    print(i,end=\" \")\nprint(\"\\n\"*5)",
+        "detail": "Tim Buchalka.LearnProgramming.moreprint",
+        "documentation": {}
+    },
+    {
+        "label": "shopping_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.mutable",
+        "description": "Tim Buchalka.LearnProgramming.mutable",
+        "peekOfCode": "shopping_list = [\"milk\",\n                 \"pasta\",\n                 \"eggs\", \n                 \"spam\", \n                 \"bread\", \n                 \"rice\"\n                 ];import os;os.system('cls')\nanother_list = shopping_list\nprint(id(shopping_list))\nprint(id(another_list))",
+        "detail": "Tim Buchalka.LearnProgramming.mutable",
+        "documentation": {}
+    },
+    {
+        "label": "another_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.mutable",
+        "description": "Tim Buchalka.LearnProgramming.mutable",
+        "peekOfCode": "another_list = shopping_list\nprint(id(shopping_list))\nprint(id(another_list))\nshopping_list += [\"cookies\"]# adds cookies the the end of the list\nprint(shopping_list)\nprint(id(shopping_list))\nprint(another_list)\na = b = c = d = e = f = another_list\nprint(a)\nprint(\"Adding cream\")",
+        "detail": "Tim Buchalka.LearnProgramming.mutable",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.mutable",
+        "description": "Tim Buchalka.LearnProgramming.mutable",
+        "peekOfCode": "a = b = c = d = e = f = another_list\nprint(a)\nprint(\"Adding cream\")\nb.append(\"cream\")\nprint(c)\nprint(d)",
+        "detail": "Tim Buchalka.LearnProgramming.mutable",
+        "documentation": {}
+    },
+    {
+        "label": "albums",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.nested_data",
+        "description": "Tim Buchalka.LearnProgramming.nested_data",
+        "peekOfCode": "albums = [#[0] = this whole list\n        #title                   #artist       #year\n    (\"Welcome to my Nightmare\", \"Alice Cooper\", 1975,#[0]\n     [       #song\n         (1, \"Welcome to my Nightmare\"),#[0][3][0]\n         (2, \"Devil's Food\"),#[0][3][1]\n         (3, \"The Black Widow\"),#[0][3][2]\n         (4, \"Some Folks\"),#[0][3][3]\n         (5, \"Only Women Bleed\")#[0][3][4]\n     ]",
+        "detail": "Tim Buchalka.LearnProgramming.nested_data",
+        "documentation": {}
+    },
+    {
+        "label": "menu",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.nospam",
+        "description": "Tim Buchalka.LearnProgramming.nospam",
+        "peekOfCode": "menu = [\n    [\"egg\", \"bacon\"],\n    [\"egg\",\"sausage\", \"bacon\"],\n    [\"egg\",\"spam\"],\n    [\"egg\",\"bacon\",\"spam\"],\n    [\"egg\",\"bacon\",\"sausage\",\"spam\"],\n    [\"spam\",\"bacon\",\"sausage\",\"spam\"],\n    [\"spam\",\"egg\",\"spam\",\"bacon\",\"spam\",\"tomato\", \"spam\"],\n    [\"spam\",\"egg\",\"spam\",\"spam\",\"bacon\",\"spam\"],\n];import os;os.system('cls')",
+        "detail": "Tim Buchalka.LearnProgramming.nospam",
+        "documentation": {}
+    },
+    {
+        "label": "activity",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.notin",
+        "description": "Tim Buchalka.LearnProgramming.notin",
+        "peekOfCode": "activity = input(\"What would you like to do today? \") \nif \"cinema\" not in activity.casefold():# casefold() makes (CINEMA and cinema) the same value \n    print(\"But I want to go to the cinema\")\nelse:\n    print(\"Ok\")",
+        "detail": "Tim Buchalka.LearnProgramming.notin",
+        "documentation": {}
+    },
+    {
+        "label": "empty_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.number_list",
+        "description": "Tim Buchalka.LearnProgramming.number_list",
+        "peekOfCode": "empty_list = []; import os;os.system('cls')\neven = [2,4,6,8]\nodd = [1,3,5,7,9]\nnumbers = even , odd\nprint(numbers) # [2, 4, 6, 8, 1, 3, 5, 7, 9]",
+        "detail": "Tim Buchalka.LearnProgramming.number_list",
+        "documentation": {}
+    },
+    {
+        "label": "even",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.number_list",
+        "description": "Tim Buchalka.LearnProgramming.number_list",
+        "peekOfCode": "even = [2,4,6,8]\nodd = [1,3,5,7,9]\nnumbers = even , odd\nprint(numbers) # [2, 4, 6, 8, 1, 3, 5, 7, 9]",
+        "detail": "Tim Buchalka.LearnProgramming.number_list",
+        "documentation": {}
+    },
+    {
+        "label": "odd",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.number_list",
+        "description": "Tim Buchalka.LearnProgramming.number_list",
+        "peekOfCode": "odd = [1,3,5,7,9]\nnumbers = even , odd\nprint(numbers) # [2, 4, 6, 8, 1, 3, 5, 7, 9]",
+        "detail": "Tim Buchalka.LearnProgramming.number_list",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.number_list",
+        "description": "Tim Buchalka.LearnProgramming.number_list",
+        "peekOfCode": "numbers = even , odd\nprint(numbers) # [2, 4, 6, 8, 1, 3, 5, 7, 9]",
+        "detail": "Tim Buchalka.LearnProgramming.number_list",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.operators",
+        "description": "Tim Buchalka.LearnProgramming.operators",
+        "peekOfCode": "a = 12\nb = 3\nprint(a + b)  # 15 Addition\nprint(a - b)  #  9 Subtraction\nprint(a * b)  # 36 Multiplication\nprint(a / b)  # 4.0Division (results in a float)\nprint(a // b) # 4  Floor Division (results in an integer)\nprint(a % b)  # 0  Modulus (remainder)\nprint(a ** b) # Exponentiation (a raised to the power of b)\nprint()",
+        "detail": "Tim Buchalka.LearnProgramming.operators",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.operators",
+        "description": "Tim Buchalka.LearnProgramming.operators",
+        "peekOfCode": "b = 3\nprint(a + b)  # 15 Addition\nprint(a - b)  #  9 Subtraction\nprint(a * b)  # 36 Multiplication\nprint(a / b)  # 4.0Division (results in a float)\nprint(a // b) # 4  Floor Division (results in an integer)\nprint(a % b)  # 0  Modulus (remainder)\nprint(a ** b) # Exponentiation (a raised to the power of b)\nprint()\nprint(a + b / 3 - 4 * 12) # Operator precedence (PEMDAS)",
+        "detail": "Tim Buchalka.LearnProgramming.operators",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.operators",
+        "description": "Tim Buchalka.LearnProgramming.operators",
+        "peekOfCode": "c = a +b\nd = c / 3\ne = d - 4\nprint(e * 12)",
+        "detail": "Tim Buchalka.LearnProgramming.operators",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.operators",
+        "description": "Tim Buchalka.LearnProgramming.operators",
+        "peekOfCode": "d = c / 3\ne = d - 4\nprint(e * 12)",
+        "detail": "Tim Buchalka.LearnProgramming.operators",
+        "documentation": {}
+    },
+    {
+        "label": "e",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.operators",
+        "description": "Tim Buchalka.LearnProgramming.operators",
+        "peekOfCode": "e = d - 4\nprint(e * 12)",
+        "detail": "Tim Buchalka.LearnProgramming.operators",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.outliers",
+        "description": "Tim Buchalka.LearnProgramming.outliers",
+        "peekOfCode": "data = [4,5,104,105,12,15,110,120,130,130,150,\n        160,170,183,185,187,188,191,350,5,360];import os;os.system('cls')\nmin_valid = 100\nmax_valid = 200\ndata.sort()\n# TODO process the low values in the list\nstop = 0\nfor index, value in enumerate(data):\n    if value >= min_valid:# find the first value greater than or equal to 100\n        stop = index# stop = to the index greater than or equal to 100",
+        "detail": "Tim Buchalka.LearnProgramming.outliers",
+        "documentation": {}
+    },
+    {
+        "label": "min_valid",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.outliers",
+        "description": "Tim Buchalka.LearnProgramming.outliers",
+        "peekOfCode": "min_valid = 100\nmax_valid = 200\ndata.sort()\n# TODO process the low values in the list\nstop = 0\nfor index, value in enumerate(data):\n    if value >= min_valid:# find the first value greater than or equal to 100\n        stop = index# stop = to the index greater than or equal to 100\n        break\nprint(stop)",
+        "detail": "Tim Buchalka.LearnProgramming.outliers",
+        "documentation": {}
+    },
+    {
+        "label": "max_valid",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.outliers",
+        "description": "Tim Buchalka.LearnProgramming.outliers",
+        "peekOfCode": "max_valid = 200\ndata.sort()\n# TODO process the low values in the list\nstop = 0\nfor index, value in enumerate(data):\n    if value >= min_valid:# find the first value greater than or equal to 100\n        stop = index# stop = to the index greater than or equal to 100\n        break\nprint(stop)\ndel data[:stop]#stops at the index greater than or equal to 100",
+        "detail": "Tim Buchalka.LearnProgramming.outliers",
+        "documentation": {}
+    },
+    {
+        "label": "stop",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.outliers",
+        "description": "Tim Buchalka.LearnProgramming.outliers",
+        "peekOfCode": "stop = 0\nfor index, value in enumerate(data):\n    if value >= min_valid:# find the first value greater than or equal to 100\n        stop = index# stop = to the index greater than or equal to 100\n        break\nprint(stop)\ndel data[:stop]#stops at the index greater than or equal to 100\nprint(data)\n# TODO process the high values in the list\nstart = 0",
+        "detail": "Tim Buchalka.LearnProgramming.outliers",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.outliers",
+        "description": "Tim Buchalka.LearnProgramming.outliers",
+        "peekOfCode": "start = 0\nfor index in range(len(data)-1, -1, -1):# from the end of the list to the beginning\n    if data[index] <= max_valid:# find the first value less than or equal to 200\n        start = index + 1# + 1 because index starts at 0\n        break\nprint(start)\ndel data[start:]#starts at the index less than or equal to 200 + 1\nprint(data)",
+        "detail": "Tim Buchalka.LearnProgramming.outliers",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.repfields",
+        "description": "Tim Buchalka.LearnProgramming.repfields",
+        "peekOfCode": "age = 24\nprint(\"My age is \" + str(age) + \" years\") # Type casting int to str\nprint(\"My age isd {0} years\".format(age))\nprint(\"My age is {0} days in {1}, {2}, {3}, {4}, {5}, {6}, {7}\".format(31, \"Jan\", \"Mar\", \"May\", \"Jul\", \"Aug\", \"Oct\", \"Dec\"))\nprint(\"There are {0} days in Jan, Mar, May, Jul, Aug, Oct, Dec\".format(31))\nprint(\"Jan: {2}, Feb: {0}, Mar: {2}, Apr: {1}, May: {2}, Jun: {1}, Jul: {2}, Aug: {2}, Sep: {1}, Oct: {2}, Nov: {1}, Dec: {2}\".format(28, 30, 31))\nprint()\nprint(\"\"\"Jan: {2}, \nFeb: {0}, \nMar: {2}, ",
+        "detail": "Tim Buchalka.LearnProgramming.repfields",
+        "documentation": {}
+    },
+    {
+        "label": "string1",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "peekOfCode": "string1 = \"he's\"\nstring2 = \"probably \"\nstring3 = \"pining \"\nstring4 = \"for the \"\nstring5 = \"fjords\"\nprint(string1 + string2 + string3 + string4 + string5) # he's probably pining for the fjords\nprint(\"he's \" \"probably \" \"pining \" \"for the \" \"fjords\") # he's probably pining for the fjords\nprint(\"Hello \" * 5) # Hello Hello Hello Hello Hello\nprint(\"Hello \" * 5 * 4) # will cause an error\nprint(\"Hello \" * (5 + 4)) # with parenthesis it works fine",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "documentation": {}
+    },
+    {
+        "label": "string2",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "peekOfCode": "string2 = \"probably \"\nstring3 = \"pining \"\nstring4 = \"for the \"\nstring5 = \"fjords\"\nprint(string1 + string2 + string3 + string4 + string5) # he's probably pining for the fjords\nprint(\"he's \" \"probably \" \"pining \" \"for the \" \"fjords\") # he's probably pining for the fjords\nprint(\"Hello \" * 5) # Hello Hello Hello Hello Hello\nprint(\"Hello \" * 5 * 4) # will cause an error\nprint(\"Hello \" * (5 + 4)) # with parenthesis it works fine",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "documentation": {}
+    },
+    {
+        "label": "string3",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "peekOfCode": "string3 = \"pining \"\nstring4 = \"for the \"\nstring5 = \"fjords\"\nprint(string1 + string2 + string3 + string4 + string5) # he's probably pining for the fjords\nprint(\"he's \" \"probably \" \"pining \" \"for the \" \"fjords\") # he's probably pining for the fjords\nprint(\"Hello \" * 5) # Hello Hello Hello Hello Hello\nprint(\"Hello \" * 5 * 4) # will cause an error\nprint(\"Hello \" * (5 + 4)) # with parenthesis it works fine",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "documentation": {}
+    },
+    {
+        "label": "string4",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "peekOfCode": "string4 = \"for the \"\nstring5 = \"fjords\"\nprint(string1 + string2 + string3 + string4 + string5) # he's probably pining for the fjords\nprint(\"he's \" \"probably \" \"pining \" \"for the \" \"fjords\") # he's probably pining for the fjords\nprint(\"Hello \" * 5) # Hello Hello Hello Hello Hello\nprint(\"Hello \" * 5 * 4) # will cause an error\nprint(\"Hello \" * (5 + 4)) # with parenthesis it works fine",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "documentation": {}
+    },
+    {
+        "label": "string5",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "peekOfCode": "string5 = \"fjords\"\nprint(string1 + string2 + string3 + string4 + string5) # he's probably pining for the fjords\nprint(\"he's \" \"probably \" \"pining \" \"for the \" \"fjords\") # he's probably pining for the fjords\nprint(\"Hello \" * 5) # Hello Hello Hello Hello Hello\nprint(\"Hello \" * 5 * 4) # will cause an error\nprint(\"Hello \" * (5 + 4)) # with parenthesis it works fine",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators-BalWraith",
+        "documentation": {}
+    },
+    {
+        "label": "string1",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "peekOfCode": "string1 = \"he's \"\nstring2 = \"probably \"\nstring3 = \"pining \"\nstring4 = \"for the \"\nstring5 = \"fjords\"\nprint(string1 + string2 + string3 + string4 + string5) # String Concatenation\nprint(\"he's \" \"probably \" \"pining \" \"for the \" \"fjords\") # Concatenation\nprint(\"Hello \" * 5) # Repetition\n#print(\"Hello \" * 5 + 4) # TypeError: can only concatenate str (not \"int\") \nprint(\"Hello \" * (5 + 4)) # with parentheses it works",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "documentation": {}
+    },
+    {
+        "label": "string2",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "peekOfCode": "string2 = \"probably \"\nstring3 = \"pining \"\nstring4 = \"for the \"\nstring5 = \"fjords\"\nprint(string1 + string2 + string3 + string4 + string5) # String Concatenation\nprint(\"he's \" \"probably \" \"pining \" \"for the \" \"fjords\") # Concatenation\nprint(\"Hello \" * 5) # Repetition\n#print(\"Hello \" * 5 + 4) # TypeError: can only concatenate str (not \"int\") \nprint(\"Hello \" * (5 + 4)) # with parentheses it works\ntoday = \"friday\"",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "documentation": {}
+    },
+    {
+        "label": "string3",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "peekOfCode": "string3 = \"pining \"\nstring4 = \"for the \"\nstring5 = \"fjords\"\nprint(string1 + string2 + string3 + string4 + string5) # String Concatenation\nprint(\"he's \" \"probably \" \"pining \" \"for the \" \"fjords\") # Concatenation\nprint(\"Hello \" * 5) # Repetition\n#print(\"Hello \" * 5 + 4) # TypeError: can only concatenate str (not \"int\") \nprint(\"Hello \" * (5 + 4)) # with parentheses it works\ntoday = \"friday\"\nprint(\"day\" in today) # True",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "documentation": {}
+    },
+    {
+        "label": "string4",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "peekOfCode": "string4 = \"for the \"\nstring5 = \"fjords\"\nprint(string1 + string2 + string3 + string4 + string5) # String Concatenation\nprint(\"he's \" \"probably \" \"pining \" \"for the \" \"fjords\") # Concatenation\nprint(\"Hello \" * 5) # Repetition\n#print(\"Hello \" * 5 + 4) # TypeError: can only concatenate str (not \"int\") \nprint(\"Hello \" * (5 + 4)) # with parentheses it works\ntoday = \"friday\"\nprint(\"day\" in today) # True\nprint(\"fri\" in today) # True",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "documentation": {}
+    },
+    {
+        "label": "string5",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "peekOfCode": "string5 = \"fjords\"\nprint(string1 + string2 + string3 + string4 + string5) # String Concatenation\nprint(\"he's \" \"probably \" \"pining \" \"for the \" \"fjords\") # Concatenation\nprint(\"Hello \" * 5) # Repetition\n#print(\"Hello \" * 5 + 4) # TypeError: can only concatenate str (not \"int\") \nprint(\"Hello \" * (5 + 4)) # with parentheses it works\ntoday = \"friday\"\nprint(\"day\" in today) # True\nprint(\"fri\" in today) # True\nprint(\"thur\" in today) # False",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "documentation": {}
+    },
+    {
+        "label": "today",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "description": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "peekOfCode": "today = \"friday\"\nprint(\"day\" in today) # True\nprint(\"fri\" in today) # True\nprint(\"thur\" in today) # False\nprint(\"parrot\" in \"fjord\") # False",
+        "detail": "Tim Buchalka.LearnProgramming.sequence_operators",
+        "documentation": {}
+    },
+    {
+        "label": "shopping_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.shopping",
+        "description": "Tim Buchalka.LearnProgramming.shopping",
+        "peekOfCode": "shopping_list = [\"milk\", \"pasta\", \"eggs\", \"spam\", \"bread\", \"rice\"];import os;os.system('cls')\nitem_to_find = \"spam\" \nfound_at = None\n# for index in range(6):0\n# for index in range(len(shopping_list)):\n#     if shopping_list[index] == item_to_find:\n#         found_at = index\n#         break\nif item_to_find in shopping_list:\n    found_at = shopping_list.index(item_to_find)     ",
+        "detail": "Tim Buchalka.LearnProgramming.shopping",
+        "documentation": {}
+    },
+    {
+        "label": "item_to_find",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.shopping",
+        "description": "Tim Buchalka.LearnProgramming.shopping",
+        "peekOfCode": "item_to_find = \"spam\" \nfound_at = None\n# for index in range(6):0\n# for index in range(len(shopping_list)):\n#     if shopping_list[index] == item_to_find:\n#         found_at = index\n#         break\nif item_to_find in shopping_list:\n    found_at = shopping_list.index(item_to_find)     \nif found_at is not None:",
+        "detail": "Tim Buchalka.LearnProgramming.shopping",
+        "documentation": {}
+    },
+    {
+        "label": "found_at",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.shopping",
+        "description": "Tim Buchalka.LearnProgramming.shopping",
+        "peekOfCode": "found_at = None\n# for index in range(6):0\n# for index in range(len(shopping_list)):\n#     if shopping_list[index] == item_to_find:\n#         found_at = index\n#         break\nif item_to_find in shopping_list:\n    found_at = shopping_list.index(item_to_find)     \nif found_at is not None:\n    print(\"Item found at position {}\".format(found_at))",
+        "detail": "Tim Buchalka.LearnProgramming.shopping",
+        "documentation": {}
+    },
+    {
+        "label": "letters",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sliceback",
+        "description": "Tim Buchalka.LearnProgramming.sliceback",
+        "peekOfCode": "letters = \"abcdefghijklmnopqrstuvwxyz\"\n#                  start:stop:step\nbackwards = letters[25:0:-1]  # 'zyxwvutsrqponmlkjihgfedcb' missing 'a'\nbackwardAll = letters[::-1]    # 'zyxwvutsrqponmlkjihgfedcba' includes 'a'\nqpo = letters[-10:-13:-1] # 'qpo'\nedcba = letters[-22:-27:-1] # 'edcba' \nprint(backwards)\nprint(backwardAll)\nprint(qpo)\nprint(edcba)",
+        "detail": "Tim Buchalka.LearnProgramming.sliceback",
+        "documentation": {}
+    },
+    {
+        "label": "backwards",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sliceback",
+        "description": "Tim Buchalka.LearnProgramming.sliceback",
+        "peekOfCode": "backwards = letters[25:0:-1]  # 'zyxwvutsrqponmlkjihgfedcb' missing 'a'\nbackwardAll = letters[::-1]    # 'zyxwvutsrqponmlkjihgfedcba' includes 'a'\nqpo = letters[-10:-13:-1] # 'qpo'\nedcba = letters[-22:-27:-1] # 'edcba' \nprint(backwards)\nprint(backwardAll)\nprint(qpo)\nprint(edcba)\nprint(letters[:1]) # 'a'\ncomputer_parts = [\"computer\", \"monitor\", \"keyboard\", \"mouse\", \"mouse mat\"]",
+        "detail": "Tim Buchalka.LearnProgramming.sliceback",
+        "documentation": {}
+    },
+    {
+        "label": "backwardAll",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sliceback",
+        "description": "Tim Buchalka.LearnProgramming.sliceback",
+        "peekOfCode": "backwardAll = letters[::-1]    # 'zyxwvutsrqponmlkjihgfedcba' includes 'a'\nqpo = letters[-10:-13:-1] # 'qpo'\nedcba = letters[-22:-27:-1] # 'edcba' \nprint(backwards)\nprint(backwardAll)\nprint(qpo)\nprint(edcba)\nprint(letters[:1]) # 'a'\ncomputer_parts = [\"computer\", \"monitor\", \"keyboard\", \"mouse\", \"mouse mat\"]",
+        "detail": "Tim Buchalka.LearnProgramming.sliceback",
+        "documentation": {}
+    },
+    {
+        "label": "qpo",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sliceback",
+        "description": "Tim Buchalka.LearnProgramming.sliceback",
+        "peekOfCode": "qpo = letters[-10:-13:-1] # 'qpo'\nedcba = letters[-22:-27:-1] # 'edcba' \nprint(backwards)\nprint(backwardAll)\nprint(qpo)\nprint(edcba)\nprint(letters[:1]) # 'a'\ncomputer_parts = [\"computer\", \"monitor\", \"keyboard\", \"mouse\", \"mouse mat\"]",
+        "detail": "Tim Buchalka.LearnProgramming.sliceback",
+        "documentation": {}
+    },
+    {
+        "label": "edcba",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sliceback",
+        "description": "Tim Buchalka.LearnProgramming.sliceback",
+        "peekOfCode": "edcba = letters[-22:-27:-1] # 'edcba' \nprint(backwards)\nprint(backwardAll)\nprint(qpo)\nprint(edcba)\nprint(letters[:1]) # 'a'\ncomputer_parts = [\"computer\", \"monitor\", \"keyboard\", \"mouse\", \"mouse mat\"]",
+        "detail": "Tim Buchalka.LearnProgramming.sliceback",
+        "documentation": {}
+    },
+    {
+        "label": "computer_parts",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sliceback",
+        "description": "Tim Buchalka.LearnProgramming.sliceback",
+        "peekOfCode": "computer_parts = [\"computer\", \"monitor\", \"keyboard\", \"mouse\", \"mouse mat\"]",
+        "detail": "Tim Buchalka.LearnProgramming.sliceback",
+        "documentation": {}
+    },
+    {
+        "label": "pangram",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sorting",
+        "description": "Tim Buchalka.LearnProgramming.sorting",
+        "peekOfCode": "pangram = \"The quick brown fox jumps over the lazy dog\";import os;os.system('cls')\nletters = sorted(pangram) # Sorted in alphabetical order\nprint(letters)\nnumbers = [2.3, 4.5, 8.7, 3., 9.2, 1.6]\nsorted_numbers = sorted(numbers) # Sorted in ascending order\n# print(sorted_numbers) # [1.6, 2.3, 3.0, 4.5, 8.7, 9.2]\n# print(numbers)\nnumbers.sort() # Sort the list in place in ascending order\nprint(numbers) # [1.6, 2.3, 3.0, 4.5, 8.7, 9.2]\nmissing_letters = sorted(\"The quick brown fox jumps over the lazy dog\",",
+        "detail": "Tim Buchalka.LearnProgramming.sorting",
+        "documentation": {}
+    },
+    {
+        "label": "letters",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sorting",
+        "description": "Tim Buchalka.LearnProgramming.sorting",
+        "peekOfCode": "letters = sorted(pangram) # Sorted in alphabetical order\nprint(letters)\nnumbers = [2.3, 4.5, 8.7, 3., 9.2, 1.6]\nsorted_numbers = sorted(numbers) # Sorted in ascending order\n# print(sorted_numbers) # [1.6, 2.3, 3.0, 4.5, 8.7, 9.2]\n# print(numbers)\nnumbers.sort() # Sort the list in place in ascending order\nprint(numbers) # [1.6, 2.3, 3.0, 4.5, 8.7, 9.2]\nmissing_letters = sorted(\"The quick brown fox jumps over the lazy dog\",\n                         key=str.casefold) # Sort ignoring case",
+        "detail": "Tim Buchalka.LearnProgramming.sorting",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sorting",
+        "description": "Tim Buchalka.LearnProgramming.sorting",
+        "peekOfCode": "numbers = [2.3, 4.5, 8.7, 3., 9.2, 1.6]\nsorted_numbers = sorted(numbers) # Sorted in ascending order\n# print(sorted_numbers) # [1.6, 2.3, 3.0, 4.5, 8.7, 9.2]\n# print(numbers)\nnumbers.sort() # Sort the list in place in ascending order\nprint(numbers) # [1.6, 2.3, 3.0, 4.5, 8.7, 9.2]\nmissing_letters = sorted(\"The quick brown fox jumps over the lazy dog\",\n                         key=str.casefold) # Sort ignoring case\nprint(missing_letters)\nnames = [\"Graham\", ",
+        "detail": "Tim Buchalka.LearnProgramming.sorting",
+        "documentation": {}
+    },
+    {
+        "label": "sorted_numbers",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sorting",
+        "description": "Tim Buchalka.LearnProgramming.sorting",
+        "peekOfCode": "sorted_numbers = sorted(numbers) # Sorted in ascending order\n# print(sorted_numbers) # [1.6, 2.3, 3.0, 4.5, 8.7, 9.2]\n# print(numbers)\nnumbers.sort() # Sort the list in place in ascending order\nprint(numbers) # [1.6, 2.3, 3.0, 4.5, 8.7, 9.2]\nmissing_letters = sorted(\"The quick brown fox jumps over the lazy dog\",\n                         key=str.casefold) # Sort ignoring case\nprint(missing_letters)\nnames = [\"Graham\", \n         \"John\", ",
+        "detail": "Tim Buchalka.LearnProgramming.sorting",
+        "documentation": {}
+    },
+    {
+        "label": "missing_letters",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sorting",
+        "description": "Tim Buchalka.LearnProgramming.sorting",
+        "peekOfCode": "missing_letters = sorted(\"The quick brown fox jumps over the lazy dog\",\n                         key=str.casefold) # Sort ignoring case\nprint(missing_letters)\nnames = [\"Graham\", \n         \"John\", \n         \"terry\", \n         \"eric\",\n         \"Terry\", \n         \"michael\"\n    ]",
+        "detail": "Tim Buchalka.LearnProgramming.sorting",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.sorting",
+        "description": "Tim Buchalka.LearnProgramming.sorting",
+        "peekOfCode": "names = [\"Graham\", \n         \"John\", \n         \"terry\", \n         \"eric\",\n         \"Terry\", \n         \"michael\"\n    ]\nnames.sort(key=str.casefold)# key makes the sort case insensitive\nprint(names)",
+        "detail": "Tim Buchalka.LearnProgramming.sorting",
+        "documentation": {}
+    },
+    {
+        "label": "menu",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.spam",
+        "description": "Tim Buchalka.LearnProgramming.spam",
+        "peekOfCode": "menu = [\n    [\"egg\", \"bacon\"],\n    [\"egg\",\"sausage\", \"bacon\"],\n    [\"egg\",\"spam\"],\n    [\"egg\",\"bacon\",\"spam\"],\n    [\"egg\",\"bacon\",\"sausage\",\"spam\"],\n    [\"spam\",\"bacon\",\"sausage\",\"spam\"],\n    [\"spam\",\"egg\",\"spam\",\"bacon\",\"spam\",\"tomato\", \"spam\"],\n    [\"spam\",\"egg\",\"spam\",\"spam\",\"bacon\",\"spam\"],\n];import os;os.system('cls')",
+        "detail": "Tim Buchalka.LearnProgramming.spam",
+        "documentation": {}
+    },
+    {
+        "label": "panagram",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.splitting_things",
+        "description": "Tim Buchalka.LearnProgramming.splitting_things",
+        "peekOfCode": "panagram = \"\"\"The quick brown\nfox jumps\\tover \nthe lazy dog\"\"\";import os;os.system('cls')\nwords = panagram.split()\nprint(words)\nnumbers = \"9,223,372,036,854,775,807\"\n# print(numbers.split(\",\"))\ngenerated_list = ['9', ' ',\n                  '2', '2','3',',',\n                  '3', '7','2',',',",
+        "detail": "Tim Buchalka.LearnProgramming.splitting_things",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.splitting_things",
+        "description": "Tim Buchalka.LearnProgramming.splitting_things",
+        "peekOfCode": "words = panagram.split()\nprint(words)\nnumbers = \"9,223,372,036,854,775,807\"\n# print(numbers.split(\",\"))\ngenerated_list = ['9', ' ',\n                  '2', '2','3',',',\n                  '3', '7','2',',',\n                  '0', '3','6',',',\n                  '8', '5','4',',',\n                  '7', '7','5',',',",
+        "detail": "Tim Buchalka.LearnProgramming.splitting_things",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.splitting_things",
+        "description": "Tim Buchalka.LearnProgramming.splitting_things",
+        "peekOfCode": "numbers = \"9,223,372,036,854,775,807\"\n# print(numbers.split(\",\"))\ngenerated_list = ['9', ' ',\n                  '2', '2','3',',',\n                  '3', '7','2',',',\n                  '0', '3','6',',',\n                  '8', '5','4',',',\n                  '7', '7','5',',',\n                  '8', '0','7']\nfor i in generated_list:",
+        "detail": "Tim Buchalka.LearnProgramming.splitting_things",
+        "documentation": {}
+    },
+    {
+        "label": "generated_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.splitting_things",
+        "description": "Tim Buchalka.LearnProgramming.splitting_things",
+        "peekOfCode": "generated_list = ['9', ' ',\n                  '2', '2','3',',',\n                  '3', '7','2',',',\n                  '0', '3','6',',',\n                  '8', '5','4',',',\n                  '7', '7','5',',',\n                  '8', '0','7']\nfor i in generated_list:\n    print(i, end=\"\")",
+        "detail": "Tim Buchalka.LearnProgramming.splitting_things",
+        "documentation": {}
+    },
+    {
+        "label": "greeting",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.strings",
+        "description": "Tim Buchalka.LearnProgramming.strings",
+        "peekOfCode": "greeting = \"Hello\"\nname = \"Michael\"\nprint(greeting + name) # string concatenation #HelloMichael no (space)\n# if we want a space, we can add that too\nprint(greeting + ' ' + name) # string concatenation #Hello Michael (space)\nage = 24\nprint(age) # prints the integer 24\nprint(type(greeting)) # <class 'str'>\nprint(type(age)) # <class 'int'>\nage = 33",
+        "detail": "Tim Buchalka.LearnProgramming.strings",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.strings",
+        "description": "Tim Buchalka.LearnProgramming.strings",
+        "peekOfCode": "name = \"Michael\"\nprint(greeting + name) # string concatenation #HelloMichael no (space)\n# if we want a space, we can add that too\nprint(greeting + ' ' + name) # string concatenation #Hello Michael (space)\nage = 24\nprint(age) # prints the integer 24\nprint(type(greeting)) # <class 'str'>\nprint(type(age)) # <class 'int'>\nage = 33\nprint(f\"{name} is {age} years old\") ",
+        "detail": "Tim Buchalka.LearnProgramming.strings",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.strings",
+        "description": "Tim Buchalka.LearnProgramming.strings",
+        "peekOfCode": "age = 24\nprint(age) # prints the integer 24\nprint(type(greeting)) # <class 'str'>\nprint(type(age)) # <class 'int'>\nage = 33\nprint(f\"{name} is {age} years old\") \nprint(type(age)) # <class 'str'>\nage_in_words = \"2 years\"\nprint(name + f\" is {age} years old\")\nprint(type(age))",
+        "detail": "Tim Buchalka.LearnProgramming.strings",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.strings",
+        "description": "Tim Buchalka.LearnProgramming.strings",
+        "peekOfCode": "age = 33\nprint(f\"{name} is {age} years old\") \nprint(type(age)) # <class 'str'>\nage_in_words = \"2 years\"\nprint(name + f\" is {age} years old\")\nprint(type(age))\nprint(f\"Pi is approximately {22 / 7:12.50f}\") # f-string with formatting\npi = 22/ 7\nprint(f\"Pi is approximately {pi:12.50f}\") # f-string with formatting",
+        "detail": "Tim Buchalka.LearnProgramming.strings",
+        "documentation": {}
+    },
+    {
+        "label": "age_in_words",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.strings",
+        "description": "Tim Buchalka.LearnProgramming.strings",
+        "peekOfCode": "age_in_words = \"2 years\"\nprint(name + f\" is {age} years old\")\nprint(type(age))\nprint(f\"Pi is approximately {22 / 7:12.50f}\") # f-string with formatting\npi = 22/ 7\nprint(f\"Pi is approximately {pi:12.50f}\") # f-string with formatting",
+        "detail": "Tim Buchalka.LearnProgramming.strings",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.strings",
+        "description": "Tim Buchalka.LearnProgramming.strings",
+        "peekOfCode": "pi = 22/ 7\nprint(f\"Pi is approximately {pi:12.50f}\") # f-string with formatting",
+        "detail": "Tim Buchalka.LearnProgramming.strings",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.strings2",
+        "description": "Tim Buchalka.LearnProgramming.strings2",
+        "peekOfCode": "number = input(\"Please enter a series of numbers, using any separators you like: \")\nseparators = \"\"\nfor char in number:# this block will add non numbers to the variable separators\n    if not char.isnumeric():# .isnumeric() - what is vs whats not a number\n        separators = separators + char# adds what are not number to the separators variable \n# print(separators)\nvalues = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint(sum([int(val) for val in values]))# with sum will add all numbers inputted with a separator EX:(1;5;6[9]5 = 26)\nvalues = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint([int(val) for val in values])# this will format separators into a , EX:(1;5;6[9]5 = [1, 5, 6, 9, 5] )",
+        "detail": "Tim Buchalka.LearnProgramming.strings2",
+        "documentation": {}
+    },
+    {
+        "label": "separators",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.strings2",
+        "description": "Tim Buchalka.LearnProgramming.strings2",
+        "peekOfCode": "separators = \"\"\nfor char in number:# this block will add non numbers to the variable separators\n    if not char.isnumeric():# .isnumeric() - what is vs whats not a number\n        separators = separators + char# adds what are not number to the separators variable \n# print(separators)\nvalues = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint(sum([int(val) for val in values]))# with sum will add all numbers inputted with a separator EX:(1;5;6[9]5 = 26)\nvalues = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint([int(val) for val in values])# this will format separators into a , EX:(1;5;6[9]5 = [1, 5, 6, 9, 5] )\n# number = \"9,223;372:036 854,775;807\"",
+        "detail": "Tim Buchalka.LearnProgramming.strings2",
+        "documentation": {}
+    },
+    {
+        "label": "values",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.strings2",
+        "description": "Tim Buchalka.LearnProgramming.strings2",
+        "peekOfCode": "values = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint(sum([int(val) for val in values]))# with sum will add all numbers inputted with a separator EX:(1;5;6[9]5 = 26)\nvalues = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint([int(val) for val in values])# this will format separators into a , EX:(1;5;6[9]5 = [1, 5, 6, 9, 5] )\n# number = \"9,223;372:036 854,775;807\"\n# seperators = number[1::4]\n# print(seperators) # ,;: ;,;\n# values = \"\".join(char if char not in seperators else \" \" for char in number).split() #changes all seperators(,;:) to space then splits ['9', '223', '372', '036', '854', '775', '807']\n# print([int(val) for val in values]) # [9, 223, 372, 36, 854, 775, 807]# takes values for the above code and converts all to int",
+        "detail": "Tim Buchalka.LearnProgramming.strings2",
+        "documentation": {}
+    },
+    {
+        "label": "values",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.strings2",
+        "description": "Tim Buchalka.LearnProgramming.strings2",
+        "peekOfCode": "values = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint([int(val) for val in values])# this will format separators into a , EX:(1;5;6[9]5 = [1, 5, 6, 9, 5] )\n# number = \"9,223;372:036 854,775;807\"\n# seperators = number[1::4]\n# print(seperators) # ,;: ;,;\n# values = \"\".join(char if char not in seperators else \" \" for char in number).split() #changes all seperators(,;:) to space then splits ['9', '223', '372', '036', '854', '775', '807']\n# print([int(val) for val in values]) # [9, 223, 372, 36, 854, 775, 807]# takes values for the above code and converts all to int",
+        "detail": "Tim Buchalka.LearnProgramming.strings2",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.summarychallenge",
+        "description": "Tim Buchalka.LearnProgramming.summarychallenge",
+        "peekOfCode": "choice = \"-\" ;import os;os.system('cls')\nwhile choice != \"0\":\n    if choice in \"12345\":\n        print(\"You chose option {}\".format(choice))\n    else:\n        print(\"Please choose your option from the list below:\")\n        print(\"1:\\tLearn Python\")\n        print(\"2:\\tLearn Java\")\n        print(\"3:\\tGo swimming\")\n        print(\"4:\\tHave dinner\")",
+        "detail": "Tim Buchalka.LearnProgramming.summarychallenge",
+        "documentation": {}
+    },
+    {
+        "label": "sanitise_1",
+        "kind": 2,
+        "importPath": "Tim Buchalka.LearnProgramming.timing_delete",
+        "description": "Tim Buchalka.LearnProgramming.timing_delete",
+        "peekOfCode": "def sanitise_1(data):\n    # process the low values in the list\n    stop = 0\n    for index, value in enumerate(data):\n        if value >= min_valid:\n            stop = index\n            break\n    del data[:stop]\n    start = 0\n    for index in range(len(data) - 1, -1, -1):",
+        "detail": "Tim Buchalka.LearnProgramming.timing_delete",
+        "documentation": {}
+    },
+    {
+        "label": "sanitise_2",
+        "kind": 2,
+        "importPath": "Tim Buchalka.LearnProgramming.timing_delete",
+        "description": "Tim Buchalka.LearnProgramming.timing_delete",
+        "peekOfCode": "def sanitise_2(data):\n    top_index = len(data) - 1\n    for index, value in enumerate(reversed(data)):\n        if value < min_valid or value > max_valid:\n            del data[top_index - index]\ndef sanitise_3(data):\n    for index in range(len(data) - 1, -1, -1):\n        if data[index] < min_valid or data[index] > max_valid:\n            del data[index]\nif __name__ == \"__main__\":",
+        "detail": "Tim Buchalka.LearnProgramming.timing_delete",
+        "documentation": {}
+    },
+    {
+        "label": "sanitise_3",
+        "kind": 2,
+        "importPath": "Tim Buchalka.LearnProgramming.timing_delete",
+        "description": "Tim Buchalka.LearnProgramming.timing_delete",
+        "peekOfCode": "def sanitise_3(data):\n    for index in range(len(data) - 1, -1, -1):\n        if data[index] < min_valid or data[index] > max_valid:\n            del data[index]\nif __name__ == \"__main__\":\n    print(\"Timing\")\n    x = timeit.timeit(\"sanitise_1(data_list1)\",\n                      setup=\"from __main__ import sanitise_1,\"\n                            \"data_list1\",\n                      number=1)",
+        "detail": "Tim Buchalka.LearnProgramming.timing_delete",
+        "documentation": {}
+    },
+    {
+        "label": "max_value",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.timing_delete",
+        "description": "Tim Buchalka.LearnProgramming.timing_delete",
+        "peekOfCode": "max_value = 100000000\nmin_valid = 10\nmax_valid = 9997\ndata_list1 = list(range(max_value))\ndata_list2 = list(range(max_value))\ndata_list3 = list(range(max_value))\ndef sanitise_1(data):\n    # process the low values in the list\n    stop = 0\n    for index, value in enumerate(data):",
+        "detail": "Tim Buchalka.LearnProgramming.timing_delete",
+        "documentation": {}
+    },
+    {
+        "label": "min_valid",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.timing_delete",
+        "description": "Tim Buchalka.LearnProgramming.timing_delete",
+        "peekOfCode": "min_valid = 10\nmax_valid = 9997\ndata_list1 = list(range(max_value))\ndata_list2 = list(range(max_value))\ndata_list3 = list(range(max_value))\ndef sanitise_1(data):\n    # process the low values in the list\n    stop = 0\n    for index, value in enumerate(data):\n        if value >= min_valid:",
+        "detail": "Tim Buchalka.LearnProgramming.timing_delete",
+        "documentation": {}
+    },
+    {
+        "label": "max_valid",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.timing_delete",
+        "description": "Tim Buchalka.LearnProgramming.timing_delete",
+        "peekOfCode": "max_valid = 9997\ndata_list1 = list(range(max_value))\ndata_list2 = list(range(max_value))\ndata_list3 = list(range(max_value))\ndef sanitise_1(data):\n    # process the low values in the list\n    stop = 0\n    for index, value in enumerate(data):\n        if value >= min_valid:\n            stop = index",
+        "detail": "Tim Buchalka.LearnProgramming.timing_delete",
+        "documentation": {}
+    },
+    {
+        "label": "data_list1",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.timing_delete",
+        "description": "Tim Buchalka.LearnProgramming.timing_delete",
+        "peekOfCode": "data_list1 = list(range(max_value))\ndata_list2 = list(range(max_value))\ndata_list3 = list(range(max_value))\ndef sanitise_1(data):\n    # process the low values in the list\n    stop = 0\n    for index, value in enumerate(data):\n        if value >= min_valid:\n            stop = index\n            break",
+        "detail": "Tim Buchalka.LearnProgramming.timing_delete",
+        "documentation": {}
+    },
+    {
+        "label": "data_list2",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.timing_delete",
+        "description": "Tim Buchalka.LearnProgramming.timing_delete",
+        "peekOfCode": "data_list2 = list(range(max_value))\ndata_list3 = list(range(max_value))\ndef sanitise_1(data):\n    # process the low values in the list\n    stop = 0\n    for index, value in enumerate(data):\n        if value >= min_valid:\n            stop = index\n            break\n    del data[:stop]",
+        "detail": "Tim Buchalka.LearnProgramming.timing_delete",
+        "documentation": {}
+    },
+    {
+        "label": "data_list3",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.timing_delete",
+        "description": "Tim Buchalka.LearnProgramming.timing_delete",
+        "peekOfCode": "data_list3 = list(range(max_value))\ndef sanitise_1(data):\n    # process the low values in the list\n    stop = 0\n    for index, value in enumerate(data):\n        if value >= min_valid:\n            stop = index\n            break\n    del data[:stop]\n    start = 0",
+        "detail": "Tim Buchalka.LearnProgramming.timing_delete",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.truefalse",
+        "description": "Tim Buchalka.LearnProgramming.truefalse",
+        "peekOfCode": "name = input(\"Please enter your name: \")\n# if name:\nif name != \"\": # best pratice\n    print(\"Hello, {}\".format(name))\nelse:\n    print(\"Are you the man with no name?\")\n# day = \"Friday\"                                                                                 \n# temperature = 30\n# raining = False\n# if (day == \"Saturday\" and temperature > 27) or not raining:",
+        "detail": "Tim Buchalka.LearnProgramming.truefalse",
+        "documentation": {}
+    },
+    {
+        "label": "albums",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.tuples_intro",
+        "description": "Tim Buchalka.LearnProgramming.tuples_intro",
+        "peekOfCode": "albums = [(\"Welcome to my Nightmare\", \"Alice Cooper\", 1975),\n          (\"Bad Company\", \"Bad Company\", 1974),\n          (\"Nightflight\", \"Budgie\", 1981),\n          (\"More Mayhem\", \"Imelda May\", 2011),\n          (\"Ride the Lightning\", \"Metallica\", 1984),\n          ];import os;os.system('cls')\n# print(len(albums))\n#this is more effecint \nfor name, artist,year in albums:\n    print(\"Album: {}, Artist: {}, Year: {}\"",
+        "detail": "Tim Buchalka.LearnProgramming.tuples_intro",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.unpacking",
+        "description": "Tim Buchalka.LearnProgramming.unpacking",
+        "peekOfCode": "a = b = c = d = e = f = 12;import os;os.system('cls')\nprint(c)\nx,y,z = 1,2,76\nprint(x)\nprint(y)\nprint(z)\nprint(\"Unpacking a tuple\")\ndata = 1,2,76 # data represents a tuple\nx,y,z = data # ^^^^^^^^^^^^^^ unpacking\nprint(x)",
+        "detail": "Tim Buchalka.LearnProgramming.unpacking",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.unpacking",
+        "description": "Tim Buchalka.LearnProgramming.unpacking",
+        "peekOfCode": "x,y,z = 1,2,76\nprint(x)\nprint(y)\nprint(z)\nprint(\"Unpacking a tuple\")\ndata = 1,2,76 # data represents a tuple\nx,y,z = data # ^^^^^^^^^^^^^^ unpacking\nprint(x)\nprint(y)\nprint(z)",
+        "detail": "Tim Buchalka.LearnProgramming.unpacking",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.unpacking",
+        "description": "Tim Buchalka.LearnProgramming.unpacking",
+        "peekOfCode": "data = 1,2,76 # data represents a tuple\nx,y,z = data # ^^^^^^^^^^^^^^ unpacking\nprint(x)\nprint(y)\nprint(z)\nprint(\"Unpacking a list\")\ndata_list = [12, 13, 14]\ndata_list.append(15)# this will crash the code at line 22 because all values are not being assigned to variables\np,q,r = data_list\nprint(p)",
+        "detail": "Tim Buchalka.LearnProgramming.unpacking",
+        "documentation": {}
+    },
+    {
+        "label": "x,y,z",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.unpacking",
+        "description": "Tim Buchalka.LearnProgramming.unpacking",
+        "peekOfCode": "x,y,z = data # ^^^^^^^^^^^^^^ unpacking\nprint(x)\nprint(y)\nprint(z)\nprint(\"Unpacking a list\")\ndata_list = [12, 13, 14]\ndata_list.append(15)# this will crash the code at line 22 because all values are not being assigned to variables\np,q,r = data_list\nprint(p)\nprint(q)",
+        "detail": "Tim Buchalka.LearnProgramming.unpacking",
+        "documentation": {}
+    },
+    {
+        "label": "data_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.unpacking",
+        "description": "Tim Buchalka.LearnProgramming.unpacking",
+        "peekOfCode": "data_list = [12, 13, 14]\ndata_list.append(15)# this will crash the code at line 22 because all values are not being assigned to variables\np,q,r = data_list\nprint(p)\nprint(q)\nprint(r)",
+        "detail": "Tim Buchalka.LearnProgramming.unpacking",
+        "documentation": {}
+    },
+    {
+        "label": "p,q,r",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.unpacking",
+        "description": "Tim Buchalka.LearnProgramming.unpacking",
+        "peekOfCode": "p,q,r = data_list\nprint(p)\nprint(q)\nprint(r)",
+        "detail": "Tim Buchalka.LearnProgramming.unpacking",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "Tim Buchalka.LearnProgramming.whileloop",
+        "description": "Tim Buchalka.LearnProgramming.whileloop",
+        "peekOfCode": "i = 0\nwhile i < 10:\n    print(\"i is now {}\".format(i))\n    i += 1 # adds 1 to i without this the code will run forever",
+        "detail": "Tim Buchalka.LearnProgramming.whileloop",
+        "documentation": {}
+    }
+]

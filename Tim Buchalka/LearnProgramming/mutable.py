@@ -1,0 +1,34 @@
+shopping_list = ["milk",
+                 "pasta",
+                 "eggs", 
+                 "spam", 
+                 "bread", 
+                 "rice"
+                 ];import os;os.system('cls')
+another_list = shopping_list
+print(id(shopping_list))
+print(id(another_list))
+
+shopping_list += ["cookies"]# adds cookies the the end of the list
+print(shopping_list)
+print(id(shopping_list))
+print(another_list)
+
+a = b = c = d = e = f = another_list
+print(a)
+
+print("Adding cream")
+b.append("cream")
+print(c)
+print(d)
+
+
+
+
+
+
+
+
+
+
+
