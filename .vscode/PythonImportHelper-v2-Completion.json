@@ -1,5 +1,22 @@
 [
     {
+        "label": "my_deepcopy",
+        "importPath": "simple_deepcopy",
+        "description": "simple_deepcopy",
+        "isExtraImport": true,
+        "detail": "simple_deepcopy",
+        "documentation": {}
+    },
+    {
+        "label": "copy,os;os.system('cls')",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy.os;os.system('cls')",
+        "description": "copy.os;os.system('cls')",
+        "detail": "copy.os;os.system('cls')",
+        "documentation": {}
+    },
+    {
         "label": "pantry",
         "importPath": "contents",
         "description": "contents",
@@ -9,6 +26,14 @@
     },
     {
         "label": "pantry",
+        "importPath": "contents",
+        "description": "contents",
+        "isExtraImport": true,
+        "detail": "contents",
+        "documentation": {}
+    },
+    {
+        "label": "recipes",
         "importPath": "contents",
         "description": "contents",
         "isExtraImport": true,
@@ -650,6 +675,33 @@
         "documentation": {}
     },
     {
+        "label": "original",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "description": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "peekOfCode": "original = {\n    \"Tim\": [\"Buchalka\", [\"Programmer\", \"Teacher\"]],\n    \"J-P\": [\"Roberts\", [\"Programmer\", \"Teacher\"]],\n}\ncopy_1 = copy.deepcopy(original)\ncopy_2 = my_deepcopy(original)\nprint(original)\nprint(copy_1)\nprint(copy_2)",
+        "detail": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "documentation": {}
+    },
+    {
+        "label": "copy_1",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "description": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "peekOfCode": "copy_1 = copy.deepcopy(original)\ncopy_2 = my_deepcopy(original)\nprint(original)\nprint(copy_1)\nprint(copy_2)",
+        "detail": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "documentation": {}
+    },
+    {
+        "label": "copy_2",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "description": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "peekOfCode": "copy_2 = my_deepcopy(original)\nprint(original)\nprint(copy_1)\nprint(copy_2)",
+        "detail": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "documentation": {}
+    },
+    {
         "label": "chicken_quantity",
         "kind": 5,
         "importPath": "Tim Buchalka.DictAndSet.dict_default",
@@ -978,7 +1030,7 @@
         "kind": 5,
         "importPath": "Tim Buchalka.DictAndSet.shallow_copy",
         "description": "Tim Buchalka.DictAndSet.shallow_copy",
-        "peekOfCode": "animals = {\n        \"lion\": [\"scary\",\"big\",\"cat\"],\n        \"elephant\": [\"big\",\"grey\",\"wrinkled\"],\n        \"teddy\": [\"cuddly\",\"stuff\"],\n}\nthings = animals.copy()#* things is the new copy of the animals dict\nprint(things[\"teddy\"])#* cuddly, stuff\nprint(animals[\"teddy\"])#*cuddly, stuff\nprint()\nthings[\"teddy\"].append(\"toy\")",
+        "peekOfCode": "animals = {\n        \"lion\": [\"scary\",\"big\",\"cat\"],\n        \"elephant\": [\"big\",\"grey\",\"wrinkled\"],\n        \"teddy\": [\"cuddly\",\"stuff\"],\n}\n# Perform a shallow copy\n# things = animals.copy()#* things is the new copy of the animals dict\n# Perform a deep copy\nthings = copy.deepcopy(animals)\nprint(id(things[\"teddy\"]),things[\"teddy\"])#* id(things) ",
         "detail": "Tim Buchalka.DictAndSet.shallow_copy",
         "documentation": {}
     },
@@ -987,7 +1039,7 @@
         "kind": 5,
         "importPath": "Tim Buchalka.DictAndSet.shallow_copy",
         "description": "Tim Buchalka.DictAndSet.shallow_copy",
-        "peekOfCode": "things = animals.copy()#* things is the new copy of the animals dict\nprint(things[\"teddy\"])#* cuddly, stuff\nprint(animals[\"teddy\"])#*cuddly, stuff\nprint()\nthings[\"teddy\"].append(\"toy\")\nprint(things[\"teddy\"])#* cuddly, stuff, toy\nprint(animals[\"teddy\"])#*cuddly, stuff, toy",
+        "peekOfCode": "things = copy.deepcopy(animals)\nprint(id(things[\"teddy\"]),things[\"teddy\"])#* id(things) \nprint(id(animals[\"teddy\"]),animals[\"teddy\"])#* id(animals)\nprint()\nthings[\"teddy\"].append(\"toy\")\nprint(things[\"teddy\"])#* cuddly, stuff, toy\nprint(animals[\"teddy\"])#*cuddly, stuff, toy\n\"\"\" NOTE\nDeep copy     : `deepcopy()` recursively inserts copies of the objects found in the original",
         "detail": "Tim Buchalka.DictAndSet.shallow_copy",
         "documentation": {}
     },
@@ -1034,6 +1086,24 @@
         "description": "Tim Buchalka.DictAndSet.shallow_copy_2",
         "peekOfCode": "things = {\n    \"lion\": lion_list,\n    \"elephant\": elephant_list,\n    \"teddy\": teddy_list,\n}\nprint(things[\"teddy\"])#* cuddly, stuff\nprint(animals[\"teddy\"])#*cuddly, stuff\nprint()\n# things[\"teddy\"].append(\"toy\")\nteddy_list.append(\"toy\")",
         "detail": "Tim Buchalka.DictAndSet.shallow_copy_2",
+        "documentation": {}
+    },
+    {
+        "label": "my_deepcopy",
+        "kind": 2,
+        "importPath": "Tim Buchalka.DictAndSet.simple_deepcopy",
+        "description": "Tim Buchalka.DictAndSet.simple_deepcopy",
+        "peekOfCode": "def my_deepcopy(d: dict) -> dict:\n    \"\"\"Copy a dictionary, creating copies of the `list` or `dict` values.\n    The function will crash with an AttributeError if the value aren't lists or dictionaries.\n    :param d: The dictionary to copy.\n    :return: A copy of the `d`, with the values being copies of the original value.\n    \"\"\"\n    new_dict = {}\n    for key,value in d.items():\n        new_value = value.copy()\n        new_dict[key] =new_value",
+        "detail": "Tim Buchalka.DictAndSet.simple_deepcopy",
+        "documentation": {}
+    },
+    {
+        "label": "recipes_copy",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.simple_deepcopy",
+        "description": "Tim Buchalka.DictAndSet.simple_deepcopy",
+        "peekOfCode": "recipes_copy = my_deepcopy(recipes)    \nrecipes_copy[\"Butter chicken\"][\"ginger\"] = 300\nprint(recipes_copy[\"Butter chicken\"][\"ginger\"])\nprint(recipes[\"Butter chicken\"][\"ginger\"])",
+        "detail": "Tim Buchalka.DictAndSet.simple_deepcopy",
         "documentation": {}
     },
     {
@@ -1797,7 +1867,7 @@
         "kind": 2,
         "importPath": "Tim Buchalka.Functions_intro.functions",
         "description": "Tim Buchalka.Functions_intro.functions",
-        "peekOfCode": "def multiply(x: float, y: float) -> float:\n    \"\"\"\n    Multiply 2 numbers.\n    Although this function is intended to multiply 2 numbers,\n    you can also use it to multiply a sequence.  If you pass\n    a string, for example, as the first argument, you'll get\n    the string repeated `y` times as the returned value.\n    :param x: The first number to multiply.\n    :param y: The number to multiply `x` by.\n    :return: The product of `x` and `y`.",
+        "peekOfCode": "def multiply(num_1: float, num_2: float) -> float:\n    \"\"\"\n    Multiply 2 numbers.\n    Although this function is intended to multiply 2 numbers,\n    you can also use it to multiply a sequence.  If you pass\n    a string, for example, as the first argument, you'll get\n    the string repeated `y` times as the returned value.\n    :param x: The first number to multiply.\n    :param y: The number to multiply `x` by.\n    :return: The product of `x` and `y`.",
         "detail": "Tim Buchalka.Functions_intro.functions",
         "documentation": {}
     },
@@ -1835,6 +1905,42 @@
         "description": "Tim Buchalka.Functions_intro.functions",
         "peekOfCode": "p = palindrome_sentence(\"242\")\n# !    red\n# ?    blue\n# todo orange\n# FIXME\n# TODO \n# //   line through\n# *    light green\n#      dark green",
         "detail": "Tim Buchalka.Functions_intro.functions",
+        "documentation": {}
+    },
+    {
+        "label": "mulitply",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.funs",
+        "description": "Tim Buchalka.Functions_intro.funs",
+        "peekOfCode": "def mulitply(x , y):\n    result = x * y\n    return result\ndef is_palindrome(string):\n    return string[::-1] == string\ndef palindrome_sentence(sentence):\n    string = \"\"\n    for char in sentence:\n        if char.isalnum(): #* checks if char is number or letter\n            string += char #* adds (char) from the loop to (cleaned_str \"\")",
+        "detail": "Tim Buchalka.Functions_intro.funs",
+        "documentation": {}
+    },
+    {
+        "label": "is_palindrome",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.funs",
+        "description": "Tim Buchalka.Functions_intro.funs",
+        "peekOfCode": "def is_palindrome(string):\n    return string[::-1] == string\ndef palindrome_sentence(sentence):\n    string = \"\"\n    for char in sentence:\n        if char.isalnum(): #* checks if char is number or letter\n            string += char #* adds (char) from the loop to (cleaned_str \"\")\n    # return cleaned_str == cleaned_str[::-1]\n    return is_palindrome(string)\nword = input(\"Please enter a word to check: \").casefold()",
+        "detail": "Tim Buchalka.Functions_intro.funs",
+        "documentation": {}
+    },
+    {
+        "label": "palindrome_sentence",
+        "kind": 2,
+        "importPath": "Tim Buchalka.Functions_intro.funs",
+        "description": "Tim Buchalka.Functions_intro.funs",
+        "peekOfCode": "def palindrome_sentence(sentence):\n    string = \"\"\n    for char in sentence:\n        if char.isalnum(): #* checks if char is number or letter\n            string += char #* adds (char) from the loop to (cleaned_str \"\")\n    # return cleaned_str == cleaned_str[::-1]\n    return is_palindrome(string)\nword = input(\"Please enter a word to check: \").casefold()\nif is_palindrome(word):\n    print(\"'{}' is a palindrome\".format(word))",
+        "detail": "Tim Buchalka.Functions_intro.funs",
+        "documentation": {}
+    },
+    {
+        "label": "word",
+        "kind": 5,
+        "importPath": "Tim Buchalka.Functions_intro.funs",
+        "description": "Tim Buchalka.Functions_intro.funs",
+        "peekOfCode": "word = input(\"Please enter a word to check: \").casefold()\nif is_palindrome(word):\n    print(\"'{}' is a palindrome\".format(word))\nelse:\n    print(\"'{}' is not palindrome\".format(word))",
+        "detail": "Tim Buchalka.Functions_intro.funs",
         "documentation": {}
     },
     {
@@ -2895,7 +3001,7 @@
         "kind": 5,
         "importPath": "Tim Buchalka.LearnProgramming.strings2",
         "description": "Tim Buchalka.LearnProgramming.strings2",
-        "peekOfCode": "values = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint(sum([int(val) for val in values]))# with sum will add all numbers inputted with a separator EX:(1;5;6[9]5 = 26)\nvalues = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint([int(val) for val in values])# this will format separators into a , EX:(1;5;6[9]5 = [1, 5, 6, 9, 5] )\n# number = \"9,223;372:036 854,775;807\"\n# seperators = number[1::4]\n# print(seperators) # ,;: ;,;\n# values = \"\".join(char if char not in seperators else \" \" for char in number).split() #changes all seperators(,;:) to space then splits ['9', '223', '372', '036', '854', '775', '807']\n# print([int(val) for val in values]) # [9, 223, 372, 36, 854, 775, 807]# takes values for the above code and converts all to int",
+        "peekOfCode": "values = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint(sum([int(val) for val in values]))# with sum will add all numbers inputted with a separator EX:(1;5;6[9]5 = 26)\nvalues = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint([int(val) for val in values])# this will format separators into a , EX:(1;5;6[9]5 = [1, 5, 6, 9, 5] )\n# number = \"9,223;372:036 854,775;807\"\n# seperators = number[1::4]\n# print(seperators) # ,;: ;,;\n# values = \"\".join(char if char not in seperators else \" \" for char in number).split() #changes all seperators(,;:) to space then splits ['9', '223', '372', '036', '854', '775', '807']\n# print([int(val) for val in values]) # [9, 223, 372, 36, 854, 775, 807]# takes values for the above code and converts all to intTim Buchalka/LearnProgramming/strings2.py",
         "detail": "Tim Buchalka.LearnProgramming.strings2",
         "documentation": {}
     },
@@ -2904,7 +3010,7 @@
         "kind": 5,
         "importPath": "Tim Buchalka.LearnProgramming.strings2",
         "description": "Tim Buchalka.LearnProgramming.strings2",
-        "peekOfCode": "values = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint([int(val) for val in values])# this will format separators into a , EX:(1;5;6[9]5 = [1, 5, 6, 9, 5] )\n# number = \"9,223;372:036 854,775;807\"\n# seperators = number[1::4]\n# print(seperators) # ,;: ;,;\n# values = \"\".join(char if char not in seperators else \" \" for char in number).split() #changes all seperators(,;:) to space then splits ['9', '223', '372', '036', '854', '775', '807']\n# print([int(val) for val in values]) # [9, 223, 372, 36, 854, 775, 807]# takes values for the above code and converts all to int",
+        "peekOfCode": "values = \"\".join(char if char not in separators else \" \" for char in number).split()\nprint([int(val) for val in values])# this will format separators into a , EX:(1;5;6[9]5 = [1, 5, 6, 9, 5] )\n# number = \"9,223;372:036 854,775;807\"\n# seperators = number[1::4]\n# print(seperators) # ,;: ;,;\n# values = \"\".join(char if char not in seperators else \" \" for char in number).split() #changes all seperators(,;:) to space then splits ['9', '223', '372', '036', '854', '775', '807']\n# print([int(val) for val in values]) # [9, 223, 372, 36, 854, 775, 807]# takes values for the above code and converts all to intTim Buchalka/LearnProgramming/strings2.py",
         "detail": "Tim Buchalka.LearnProgramming.strings2",
         "documentation": {}
     },

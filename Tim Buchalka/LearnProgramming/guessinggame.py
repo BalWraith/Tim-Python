@@ -20,12 +20,12 @@ def get_integer(prompt):
         print("{0} is not a valid number".format(temp))
         
 
-help(get_integer)
+# help(get_integer)
 
-print(input.__doc__)
-print("*" * 80)
-print(get_integer.__doc__)
-print("*" * 80)
+# print(input.__doc__)
+# print("*" * 80)
+# print(get_integer.__doc__)
+# print("*" * 80)
 
 highest = 1000
 answer = random.randint(1,highest)

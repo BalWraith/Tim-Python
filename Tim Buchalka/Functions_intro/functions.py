@@ -1,4 +1,4 @@
-def multiply(x: float, y: float) -> float:
+def multiply(num_1: float, num_2: float) -> float:
     """
     Multiply 2 numbers.
  
@@ -11,9 +11,9 @@ def multiply(x: float, y: float) -> float:
     :param y: The number to multiply `x` by.
     :return: The product of `x` and `y`.
     """
-    result = x * y
+    result = num_1 * num_2
     return result
- 
+import os;os.system('cls')
  
 def is_palindrome(string: str) -> bool:
     """
@@ -60,8 +60,8 @@ def fibonacci(n: int) -> int:
     return result
 
 
-for i in range(1,36):
-    print(i, fibonacci(i))
+# for i in range(1,36):
+#     print(i, fibonacci(i))
 
 
 p = palindrome_sentence("242")
@@ -76,3 +76,10 @@ p = palindrome_sentence("242")
 # //   line through
 # *    light green
 #      dark green
+
+
+
+
+
+
+

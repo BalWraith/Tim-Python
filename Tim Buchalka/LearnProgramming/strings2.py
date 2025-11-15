@@ -23,4 +23,4 @@ print([int(val) for val in values])# this will format separators into a , EX:(1;
 # seperators = number[1::4]
 # print(seperators) # ,;: ;,;
 # values = "".join(char if char not in seperators else " " for char in number).split() #changes all seperators(,;:) to space then splits ['9', '223', '372', '036', '854', '775', '807']
-# print([int(val) for val in values]) # [9, 223, 372, 36, 854, 775, 807]# takes values for the above code and converts all to int
+# print([int(val) for val in values]) # [9, 223, 372, 36, 854, 775, 807]# takes values for the above code and converts all to intTim Buchalka/LearnProgramming/strings2.py
