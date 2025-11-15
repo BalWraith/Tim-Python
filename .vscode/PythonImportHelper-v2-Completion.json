@@ -679,7 +679,7 @@
         "kind": 5,
         "importPath": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
         "description": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
-        "peekOfCode": "original = {\n    \"Tim\": [\"Buchalka\", [\"Programmer\", \"Teacher\"]],\n    \"J-P\": [\"Roberts\", [\"Programmer\", \"Teacher\"]],\n}\ncopy_1 = copy.deepcopy(original)\ncopy_2 = my_deepcopy(original)\nprint(original)\nprint(copy_1)\nprint(copy_2)",
+        "peekOfCode": "original = {\n    \"Tim\": [\"Buchalka\", [\"Programmer\", \"Teacher\"]],\n    \"J-P\": [\"Roberts\", [\"Programmer\", \"Teacher\"]],\n}\n#NOTE#*Both have the same ID\ncopy_1 = copy.deepcopy(original)\ncopy_2 = my_deepcopy(original)\noriginal[\"Tim\"].append(\"Australia\")\noriginal[\"J-P\"].append(\"UK\")\noriginal[\"Tim\"][1].append(\"Cashier\")",
         "detail": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
         "documentation": {}
     },
@@ -688,7 +688,7 @@
         "kind": 5,
         "importPath": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
         "description": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
-        "peekOfCode": "copy_1 = copy.deepcopy(original)\ncopy_2 = my_deepcopy(original)\nprint(original)\nprint(copy_1)\nprint(copy_2)",
+        "peekOfCode": "copy_1 = copy.deepcopy(original)\ncopy_2 = my_deepcopy(original)\noriginal[\"Tim\"].append(\"Australia\")\noriginal[\"J-P\"].append(\"UK\")\noriginal[\"Tim\"][1].append(\"Cashier\")\njp_list = original[\"J-P\"]\njp_list[1].append(\"Manager\")\nprint(jp_list)\nprint(\"Original\",original,\"\\n\")\nprint(\"deepcopy\",copy_1,\"\\n\")",
         "detail": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
         "documentation": {}
     },
@@ -697,7 +697,16 @@
         "kind": 5,
         "importPath": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
         "description": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
-        "peekOfCode": "copy_2 = my_deepcopy(original)\nprint(original)\nprint(copy_1)\nprint(copy_2)",
+        "peekOfCode": "copy_2 = my_deepcopy(original)\noriginal[\"Tim\"].append(\"Australia\")\noriginal[\"J-P\"].append(\"UK\")\noriginal[\"Tim\"][1].append(\"Cashier\")\njp_list = original[\"J-P\"]\njp_list[1].append(\"Manager\")\nprint(jp_list)\nprint(\"Original\",original,\"\\n\")\nprint(\"deepcopy\",copy_1,\"\\n\")\nprint(\"My_deepcopy\",copy_2)",
+        "detail": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "documentation": {}
+    },
+    {
+        "label": "jp_list",
+        "kind": 5,
+        "importPath": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "description": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
+        "peekOfCode": "jp_list = original[\"J-P\"]\njp_list[1].append(\"Manager\")\nprint(jp_list)\nprint(\"Original\",original,\"\\n\")\nprint(\"deepcopy\",copy_1,\"\\n\")\nprint(\"My_deepcopy\",copy_2)",
         "detail": "Tim Buchalka.DictAndSet.deepcopy_is_recursive",
         "documentation": {}
     },
@@ -1093,7 +1102,7 @@
         "kind": 2,
         "importPath": "Tim Buchalka.DictAndSet.simple_deepcopy",
         "description": "Tim Buchalka.DictAndSet.simple_deepcopy",
-        "peekOfCode": "def my_deepcopy(d: dict) -> dict:\n    \"\"\"Copy a dictionary, creating copies of the `list` or `dict` values.\n    The function will crash with an AttributeError if the value aren't lists or dictionaries.\n    :param d: The dictionary to copy.\n    :return: A copy of the `d`, with the values being copies of the original value.\n    \"\"\"\n    new_dict = {}\n    for key,value in d.items():\n        new_value = value.copy()\n        new_dict[key] =new_value",
+        "peekOfCode": "def my_deepcopy(d: dict) -> dict:\n    \"\"\"\n    Copy a dictionary, creating copies of the `list` or `dict` values.\n    #!The function will crash with an AttributeError if the value aren't lists or dictionaries.\n    :param d: The dictionary to copy.\n    :return: A copy of the `d`, with the values being copies of the original value.\n    \"\"\"\n    new_dict = {}\n    for key,value in d.items():\n        new_value = value.copy()#*Shallow copy of the value",
         "detail": "Tim Buchalka.DictAndSet.simple_deepcopy",
         "documentation": {}
     },
